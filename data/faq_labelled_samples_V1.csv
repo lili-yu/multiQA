@@ -1,0 +1,1760 @@
+,device,topic_level1,topic_level2,topic_level3,action,related topic (noun),title,question,answer,type,comment,
+68,no_device,"['service', 'software', 'hardware']","['phone', 'calls', 'message', 'internet&network', 'camera']","['text', 'data', 'phone', 'call']","block call, block text",,"Block texts, voice calls and data from your phone","Block texts, voice calls and data from your phone","You can control text messaging, voice calls and data access for individual phones on your account. These changes will take effect within 15 minutes.
+To block or unblock text messages, calls or data you must have a valid My Sprint account and be set up with an account owner profile. If you are not an account owner and do not have permission to change settings on your account, you will see a message showing your current settings.
+Important: If 911 is called from your Sprint phone, ALL inbound calls will automatically be allowed for 24 hours following placement of the 911 call so public safety can attempt to call back, if the call is disconnected. Call blocking will automatically be reinstated after (but cannot be reinstated during) the 24 hour period. You will not be notified of the suspension or reinstatement.
+NOTICE: Where available, text-to-911 cannot be blocked.
+To manage your account control settings on your phone:
+Visit m.sprint.com from your phone Click Manage your Sprint account tab. Click Sign in to manage your account . Sign in with your username and password and click Sign in . Scroll down and click Phones on account . Click Limits and Permissions next to the device you wish to view usage for. Select the control setting for texts, voice and data. To block or allow all settings with one click, click block all or allow all . Click Save to proceed to the next screen. Click Save again to continue. Allow 15 minutes for your changes to take effect.",general,,
+221,no_device,"['hardware', 'software']","['sound', 'default_apps']","['rington', 'music']",,"sprint music plus, ringtone",Learn more about Sprint Music Plus,What are ringtones?,"Ringtones are downloaded to your phone. With ringtones, you can ""set"" a tone (song, sound effect, etc.) that you will hear when someone calls you instead of the default ringer on your phone. Ringtones never expire on the device which they are purchased. Ringtones are not transferrable to a new phone.
+",general,,
+925,no_device,"['software', 'hardware']","['internet&network', 'activate ']","['roaming', 'card', 'data']",report incidents,data roaming,Learn more about data roaming,How can I report roaming incidents that ask for a credit card ?,"Sprint has roaming agreements, which cover virtually every area of the United States and Puerto Rico. Sprint customers should not be prompted for a credit card while roaming. However, if you are prompted for a credit card while roaming, please report the incident to us by dialing 888-211-4727. Note: When you are roaming, you will not be able to contact us by dialing *2 Talk .
+
+Entrate sobre los datos de roaming
+El servicio de roaming se ofrece para que puedas tener acceso a redes de datos cuando ests temporalmente fuera de la red de Sprint. Ten en cuenta que no es la intencin de Sprint que el roaming sea la fuente primaria de tu cobertura.
+Los equipos incluyen un indicador visual del estado de roaming que te permite saber cundo lo ests usando. Para ms detalles, consulta las instrucciones de uso del equipo o la gua del usuario, disponible cuando seleccionas tu dispositivo en sprint.com/support.
+Hay lmites para la cantidad de datos que puedes usar mientras usas roaming, dependiendo de la asignacin de tu plan. El uso de datos se calcula de acuerdo al tamao del archivo enviado o recibido. Usa nuestra calculadora de datos para calcular el uso de datos. El uso de la red de Sprint y las redes de cobertura extendida se tiene en cuenta en tu asignacin del plan, el uso de roaming se determina al acceder a las redes de roaming. No todos los servicios estn disponibles en todas las reas, por eso es importante que conozcas la cobertura y el servicio disponibles. Puedes ver la red de Sprint, la cobertura extendida y la cobertura de roaming fuera de la red en sprint.com/coverage
+Sprint incluye los trminos y condiciones en nuestra Gua de Planes de Servicio que es un folleto integral disponible en todas las tiendas de Sprint. Ten en cuenta que hay trminos y condiciones especficos para el uso de datos y roaming. Sprint se reserva el derecho de limitar las velocidades de rendimiento o la cantidad de datos transferidos y de rechazar, cancelar, modificar, desconectar o suspender el servicio si el uso excede ciertos lmites de cantidad de datos cada mes mientras se usa roaming fuera de la red. Para obtener datos especficos sobre roaming, puedes visitar sprint.com/termsandconditions
+Cuando uses roaming en tu equipo mvil, podemos notificarte con cierta frecuencia. Le enviaremos notificaciones al titular de la cuenta a travs de la preferencia de notificacin seleccionada, ya sea por email o mensaje de texto. Luego de que se exceden los lmites, Sprint puede suspender tu acceso al roaming de datos hasta el prximo ciclo de facturacin. La suspensin del roaming de datos solo limita al acceso de datos durante el roaming, no afecta el roaming de voz o mensajes de texto, y todos los servicios seguirn disponibles dentro de la red de Sprint. Para ms informacin sobre las notificaciones y controles de uso de roaming de datos en banda ancha mvil, haz clic en nacional o internacional
+Ocasionalmente, contactamos a los usuarios que podran usar roaming con frecuencia o usar una gran cantidad de datos para informarles qu es el roaming, cmo reconocer cuando se usa y ayudarlos a comprender los trminos y condiciones de Sprint sobre el roaming.
+Si tienes ms preguntas o necesitas ayuda, solo contctanos",general,,
+1608,no_device,"['service', 'software']","['plan', 'internet&network']",['roaming'],,"sprint global roaming, international plan",FAQs about Sprint Global Roaming,Is Sprint Global Roaming combinable with other international plans?,"Sprint Global Roaming is not eligible with other international roaming plans. If there are no other international roaming plans on your account, then Sprint Global Roaming is enabled for your use with capable smartphones.",general,,
+1999,no_device,['service'],"['plan', 'eligible']",[],,"sprint discount program, 50% off competitor plan",FAQ related to the Sprint Discount Program,Are the 50% off Competitor Plans eligiblefor company/university/organization discounts through Sprint?,"You may enroll in the Sprint Discount Program while on the 50% off Competitor Plans; however, these plans are not eligible for the Sprint Discount Program discounts.",general,,
+264,no_device,['service'],['eligible'],[],,monthly installments,FAQs about monthly installments,Who is eligible for monthly installments?,"New Consumer, individual liable and select small Corporate liable customers. Existing customers can visit sprint.com/upgrade to see details.",general,,
+975,samsung_galaxi_s7,['software'],"['setting', 'internet&network']","['roaming', 'setting']",change roaming guard setting,romaing guard setting,Change the roaming guard settings - Samsung Galaxy S7 Special Edition,Change the roaming guard settings - Samsung Galaxy S7 Special Edition,"Roaming guard notifies you when you are using voice, data, or messaging services while roaming domestically and/or internationally.
+
+	From the home screen, swipe down the Status bar.
+
+	Tap the Settings icon.
+
+	Scroll to and tap Mobile networks.
+
+	Tap Data roaming.
+
+	Tap Roaming guard.
+
+	Tap the switches to enable or disable the roaming guard options.
+
+	The roaming guard settings are now changed.
+
+	You can manage your data usage by restricting background data unless connected to a Wi-Fi network.
+
+	To restrict background data, from the roaming guard settings, tap the Back key three times to return to the main Settings screen.
+
+	Tap Data usage.
+
+	Tap MORE.
+
+	Tap Restrict background data.
+
+	Tap OK to confirm.
+
+	Background data is now restricted.",device,,
+465,appl_iphon_4_8gb,"['device', 'hardware']",['activate '],[],activate device,,Activate your device - Apple iPhone 4,Activate your device - Apple iPhone 4,"To turn the phone on, press and hold the Power key.
+
+	Slide the screen to the right to begin set up.
+
+	Tap the preferred language.
+
+	Tap the preferred country or region.
+
+	Tap the preferred Wi-Fi network.
+
+	Note:If there are no Wi-Fi networks available, tapConnect to iTunes.
+
+	If prompted, enter the selected Wi-Fi network's password, then tapJoin.
+
+	Tap the preferredLocation Servicesoption.
+
+	TapSet Up as New iPhone.
+
+	Note:TapRestore from iCloud BackuporRestore from iTunes Backupif restoring a previous iPhone's settings.
+
+	Tap Sign In with your Apple ID.
+
+	Note: If you do not have an Apple ID, tap Create a Free Apple ID and follow the prompts, or visit http://appleid.apple.com.
+
+	Enter the email address and password that is associated with your Apple ID, then tapNext.
+
+	Read the Terms and Conditions and tap Agree.
+
+	TapAgree.
+
+	Tap the preferrediCloudoption.
+
+	If prompted, tap the preferredFind My iPhoneoption.
+
+	Tap to enable or disable theiMessage and FaceTimeoptions, and then tapNext.
+
+	Tap the preferredDiagnosticsoption.
+
+	TapGet Started.
+
+	The iPhone is now ready for use",device,,
+124,no_device,['software'],"['setting', 'email', 'message', 'calls']","['setting', 'voicemail']",receive message,"Sprint voicemail, voicemail",FAQs about Sprint voicemail,Can I receive a message before my voicemail box is set up?,"Callers can leave messages prior to a mailbox being set up. You can listen to the messages as soon as your voicemail box is set up.
+",general,precondition: before my voicemail is set up,
+565,no_device,['software'],['internet&network'],"['roaming', 'data']",find information,data roaming,Learn more about data roaming,Where can I find more information?,"Sprint provides terms and conditions in our Service Plans Guide which is a comprehensive brochure available in all Sprint Stores. Please note that there are specific terms and conditions for roaming and data use. Sprint reserves the right to limit throughput speeds or amount of data transferred and to deny, terminate, modify, disconnect or suspend service if usage exceeds certain data amount limits each month while off-network roaming. For specific details regarding roaming, you can visit sprint.com/termsandconditions .
+",general,,
+2061,samsung_galaxi_s7,"['troubleshoot', 'software']",['internet&network'],['wifi'],troubleshoot wifi connectivity,wifi connectivity,Troubleshoot issues related to Wi-Fi connectivity on your Samsung Galaxy S7,Troubleshoot issues related to Wi-Fi connectivity on your Samsung Galaxy S7,"This article helps troubleshoot Wi-Fi connectivity issues on your Samsung Galaxy S7  
+  You may have Wi-Fi connectivity issues if your phone: 
+   
+   Can't connect to a wireless network. 
+   Connects to a wireless network, but is unable to browse. 
+   Experiences limited connectivity when connected to Wi-Fi. 
+   
+  These steps help identify and resolve the underlying cause. After completing each step, test to see if the issue is fixed. 
+   
+    Make sure you've turned on Wi-Fi on your Samsung Galaxy S7 .  
+     
+     From the home screen, tap Apps. 
+     Scroll to and tap Settings. 
+     Tap Wi-Fi. 
+     If necessary, tap the Wi-Fi switch to ON. 
+      
+    Make sure the wireless network password is correct.  If the wireless network password is incorrect or changes, your Samsung Galaxy S7 can't connect to the Wi-Fi network. Remove and reconnect to the network to make sure the password is correct. 
+     
+     From the home screen, tap Apps. 
+     Scroll to and tap Settings. 
+     Tap Wi-Fi. 
+     Tap and hold the connected network. 
+     Tap Forget network. 
+     Tap the network you want to connect to. 
+     Enter the correct password, then tap CONNECT. 
+      
+    Perform a soft reset.  
+     
+     Press and hold the Power and Volume down keys at the same time. 
+     Release both keys as soon as the device restarts. 
+      
+   
+  If you're still having issues, please try the Sprint Community pages.",device,,
+1563,no_device,['troubleshoot'],[],[],"troubleshoot phone, troubleshoot device","slow device, slow phone, phone freezes, device freezes, device turns off unexpectedly","Troubleshoot when your Nexus 6P slows, freezes, or turns off unexpectedly","Troubleshoot when your Nexus 6P slows, freezes, or turns off unexpectedly","This article helps troubleshoot your Nexus 6P slowing, freezing, or turning off unexpectedly
+You may have performance issues if your Nexus 6P:
+Performs slowly Freezes Turns off or unexpectedly restarts Displays error messages Is unable to install or update applications
+Try each of these steps to see if it helps improve your phone's performance.
+Perform a soft reset.
+A soft reset restarts your phone and does not erase any of your content or data.
+Press and hold the Power key for 8 seconds. The phone will power off and back on.
+Determine if your phone has low memory.
+From the home screen, tap the All Apps icon. Scroll to and tap Settings . Scroll to and tap Storage & USB . Memory usage is displayed. If your phone has low memory, troubleshoot low memory issues .
+Clear the application cache.
+Clear the application cache on your applications to free up space and improve performance. Be sure you clear only the application cache and not the application data . When you clear the application data , it removes your personal settings and info such as login information and high scores. Clearing the application cache doesn't remove your personal settings or information. Using two fingers, tap and drag down the notification bar. Tap the Settings icon. Tap Apps . Scroll to and tap the application. Tap Storage . Tap CLEAR CACHE .
+Close background applications.
+Some apps continue to run in the background after you exit them. Sprint recommends that you close background applications when you're not using them.
+Verify that your Nexus 6P is running the most recent software.
+There may be a software update that improves battery life on your phone. Check for software updates.
+If you're still having issues, try the Sprint Community pages or make an appointment at a convenient Sprint Repair center.",general,,
+323,no_device,"['device', 'account']",['account'],[],apply content filter,"parental control, content filter",FAQs about parental controls using content filters,Does the content filter apply to all devices on my account?,No. The content filter can be set to on or off individually for each device on your account.,general,,
+959,no_device,"['service', 'hardware']","['phone', 'camera']",['phone'],"program sprint phone connect 2, program a device",sprint phone connect 2,Program your Sprint Phone Connect 2,Program your Sprint Phone Connect 2,"Steps to activate your Sprint Phone Connect 2
+Before completing these steps, ensure that the following conditions are met:
+The battery is installed in your Sprint Phone Connect 2. The included antenna is attached to your Sprint Phone Connect 2. A land-line handset is connected to the RJ11 port on your Sprint Phone Connect 2. The power supply is connected to your Sprint Phone Connect 2.
+Hands Free Activation
+If this is the first time activating your device, Hands Free Activation automatically starts when you power it on for the first time.
+With your device powered off, press and hold the Power key until the power indicator turns on. Wait 3-5 minutes for Hands Free Activation to complete. Note: The Power, Signal, and Signal Strength LEDs blink left to right during Hands Free Activation After Hands Free Activation completes, the LEDs turn off and then come back on. You've now completed hands free activation.
+Reprogramming
+Reprogram your Sprint Phone Connect 2 if it was previously programed.
+With your device powered off, press and hold the Power key until the power indicator turns on. Using the connected handset, quickly dial ##786# . The LEDs turn off and Hands Free Activation begins. Wait 3-5 minutes for Hands Free Activation to complete. Note: The Power, Signal, and Signal Strength LEDs blink left to right during Hands Free Activation After Hands Free Activation completes, the LEDs turn off and then come back on. You've now reprogrammed your Sprint Phone Connect 2.
+If you are having any difficulty with activation, make an appointment at a nearby Sprint Store for assistance getting your device programmed.",general,,
+97,appl_iphon_4_8gb,[],[],[],share a video,,Share a video - Apple iPhone 4 8GB Certified Pre Owned As You Go,Share a video - Apple iPhone 4 8GB Certified Pre Owned As You Go,"From the home screen, tap Photos.
+
+	Tap the preferred album.
+
+	Tap the preferred video.
+
+	Tap the Share icon.
+
+	Tap Next.
+
+	Tap the preferred service.
+
+	Enter any additional information, then tap Send or Publish.
+
+	Note:Steps may vary between different services.
+
+	If the service is not already set up on the handset, enter the login information and tap Sign In.
+
+	The video is now shared.",device,,
+1252,samsung_galaxi_s7,['software'],"['setting', 'default_apps']","['application', 'key feature']",,"special edition, key features, special application",FAQs related to key features on your Samsung Galaxy S7 Special Edition,Does my Samsung Galaxy S7 Special Edition come with any special applications?,"Yes, your Samsung Galaxy S7 Special Edition comes with S Voice, which allows you to use your voice to control your device and perform other tasks.",device,,
+1787,no_device,"['device', 'service']","['service', 'available']",[],,"monthly installments, business discretionary credits, discounted device promotion",FAQs about monthly installments,Are business discretionary credits or other discounted device promotions (including those available as part of a Master Service Agreement with Sprint) combinable with monthly installments?,No. Currently no business discretionary credits or other discounted device promotions are combinable with monthly installments.,general,,
+474,no_device,['software'],['internet&network'],"['roaming', 'data']",,"data roaming, data limits","Know what data limits apply when roaming in the U.S., Puerto Rico and U.S. Virgin Islands","Know what data limits apply when roaming in the U.S., Puerto Rico and U.S. Virgin Islands","The information below tells you about nationwide data roaming limits. If you are traveling internationally, refer to the information found in Know what data limits apply when roaming internationally.
+Your limit
+If you use your device while roaming in the U.S. or Puerto Rico, you may use up to the monthly data roaming allowance included in your plan; refer to your plan for roaming usage limitations. Data usage is calculated by the size of the file sent or received. Use our data calculator to estimate your data usage.
+Check your usage
+You can track your usage online by signing in to My Sprint . When you view your bill, separate line items will be displayed for Sprint Network and domestic roaming for all data plans, with information shown separately for phones and mobile broadband cards. Sprint Network use includes use on the Sprint network, Extended LTE and Extended Coveragenetworks. Roaming use includes use on roaming networks.
+Notifications
+We'll send notifications to the account holder via the selected notification preference as you get close to or reach your limit. For domestic data roaming, we will send notifications when you reach 75%, 90% and 100% of your limit. * To update your notification preferences, you can manage your account online by signing in to My Sprint or just contact us . Note: When updating your online preferences, you must change your default notification to Yes and select either text or email to receive the notifications.
+Suspending your service
+Sprint will suspend your data roaming service when you exceed your limit. The data roaming suspension only limits access to data while roaming; there is no impact to voice or text while roaming and all service while on the Sprint network will remain available.*
+Charges
+Check plan details for charges that may apply for data roaming.*
+Restoring your service
+Your data roaming service will be automatically restored at the start of your next billing cycle.
+If you have any additional questions about data roaming, you can view our frequently asked questions about data roaming.
+*Mobile broadband devices offer additional options that are not available for mobile phones. With mobile broadband devices:
+At 100%, you will have the option to suspend your data roaming service for the month or continue to use it and pay the overage charges. If charges are accepted, you will continue to receive text or email notifications at 20% increments. Data roaming is 25/MB (for plans starting after August 8, 2010) after you hit your plan's monthly data roaming limit. If you signed up or changed your plan after August 8, 2010, and you reach your limit, we'll send you to a special web page. Click Restore service to accept any overage charges for the rest of your billing cycle. If you have an older plan, contact us to see if you can change to a plan that will accept overage charges.
+**Roaming charges could be delayed up to 60 days; notifications may be delayed based on when roaming partners provide usage details. Customers using Static IP or DataLink will not receive notifications and will not be suspended.",general,"roaming in US, roaming in Puerto Rico, roaming in Virgin Islands",
+101,no_device,[],[],[],"use content filters, block adult content, block malware","parental controls, content filter, adult content, malware",FAQs about parental controls using content filters,Will the content filter block 100% of adult content and malware?,"The content filter is not guaranteed to be 100% accurate, but is very accurate with daily updates to the filter list.",general,,
+250,no_device,"['device', 'hardware']",['equipment'],[],enroll in device protection program,"monthly installments, device protection program, total equipment protection",FAQs about monthly installments,Can a customer enroll in a device protection program (e.g. Total Equipment Protection) for devices purchased with monthly installments?,"Yes, the customer has the option to enroll in the various device protection programs to protect, replace and repair their device. Enrollment in a device protection program is optional, but Sprint highly encourages customers to enroll to protect their investment.
+The customer is responsible for their device if it breaks during their Installment Agreement. The customer will be responsible for the remainder of the unpaid balance regardless of the operability of the tablet.",general,device purchased with montnly installments,
+518,no_device,['service'],['accessory'],[],,"monthly installments, accessories",FAQs about monthly installments for accessories,What are monthly installments for accessories?,"Monthly installments are an affordable option to pay for an accessory over time. Customers simply purchase an accessory with a variable down payment, depending on credit, and agree to monthly installment payments. This offer is available only in company-owned stores.",general,,
+705,no_device,['software'],['default_apps'],['music'],purchase music tracks,sprint music plus,Learn more about Sprint Music Plus,How do I purchase music tracks?,"From the main menu on your phone, select Sprint Music Plus. Select Music Store. Search and select track to purchase. You can search by artist, title or keyword, or music category. Click Buy Track > OK.
+",general,,
+520,no_device,"['device', 'service', 'hardware']","['phone', 'camera']",['phone'],resolve phone repair issue,"device protection, phone repair issue",FAQs about device protection,How is my phone repair issue resolved?,"If you have a problem with your phone, every effort will be made to resolve your issue and return your original device back to you. Repair Centers may need to mail devices in for repairs. In most case, mail-in repairs will be ready for pickup in 5 business days. Some issues will need to be resolved by exchanging your device with a replacement. Replacement devices may be remanufactured equipment, and if your same make and model is not available, a comparable model may be substituted. Other issues may be resolved through an upgrade or new phone purchase, or by contacting Asurion regarding a phone replacement claim.",general,,
+364,samsung_galaxi_s7,['software'],['calls'],['call'],make conference call,special editon,Make a conference call - Samsung Galaxy S7 Special Edition,Make a conference call - Samsung Galaxy S7 Special Edition,"While on a call, tap Add call.
+
+	To dial the second number manually, enter the 10-digit phone number and tap the Call button.
+
+	To dial a number from the contact list, tap CONTACTS.
+
+	Scroll to and tap the preferred contact.
+
+	Tap the preferred phone number.
+
+	After the second call connects, tap Merge.
+
+	The conference call is now initiated.",device,,
+774,appl_iphon_4_8gb,[],[],[],,"phone freeze, phone unresponsive",FAQs related to your Apple iPhone 4 freezing and/or becoming unresponsive,Why is my Apple iPhone 4 freezing or being unresponsive?,"There are a number of reasons why your Apple iPhone 4 may freeze or become unresponsive, including:
+Unstable application Low internal memory Multiple applications running at the same time Your Apple iPhone 4 software may need updating
+Troubleshoot your Apple iPhone 4 freezing or becoming unresponsive",device,,
+496,no_device,['software'],"['email', 'calls', 'internet&network']","['voicemail', 'signal']",,"voicemail, sprint voicemail, fast busy signal",FAQs about Sprint voicemail,Why do I get a fast busy signal when trying to access my voicemail?,"If you get a fast busy signal when you try to access your voicemail, it simply means that all voicemail channels in your area are busy and that you need to try again later. Likewise, if a caller tries to leave you a voicemail message and gets a fast busy signal, they will be unable to leave you a message and will have to try the call later. To learn how to access your voicemail from another phone, go to Listen to your Sprint voicemail messages .
+",general,try to access voicemail,
+108,no_device,[],[],[],,"phone freeze, phone unresponsive",FAQs related to your Apple iPhone 5s freezing and/or becoming unresponsive,Why is my Apple iPhone 5s freezing or being unresponsive?,"There are a number of reasons why your Apple iPhone 5s may freeze or become unresponsive, including:
+Unstable application Low internal memory Multiple applications running at the same time Your Apple iPhone 5s software may need updating
+Troubleshoot your Apple iPhone 5s freezing or becoming unresponsive.",general,,
+573,no_device,[],[],[],upgrade device,monthly installments,FAQs about monthly installments,How often can I upgrade if I choose monthly installments?,"You can upgrade at any time after your device is paid in full, even if you are enrolled in the $5 Early Upgrade option.",general,,
+893,no_device,['software'],['internet&network'],"['roaming', 'data']",,"data roaming, data limits",Learn more about data roaming,Are there data limits?,"There are limits to the amount of data you can use while roaming, depending on your plan allowance. Data usage is calculated by the size of the file sent or received. Use our data calculator to estimate your data usage. Use on the Sprint network, Extended Coverage and Extended LTE networks counts towards your plan allowance; roaming use is determined by use accessed on roaming networks. Not all services are available in all areas, so it's important to know the coverage and service available. You can view Sprint network, Extended Coverage, Extended LTE and off-network roaming coverage on sprint.com/coverage . You can monitor your roaming usage online in My Sprint. Sign in to My Sprint , go to the My Account tab, find the phone you'd like to see usage for and click the See all usage link. You'll see all of the usage for your current billing cycle.
+",general,,
+1234,no_device,[],[],[],create safety checks,sprint family locator,Create safety checks in Sprint Family Locator,Create safety checks in Sprint Family Locator,"Safety Checks in Sprint Family Locator allow you to set a day and time to automatically locate a family member's phone. For example, you can set a Safety Check for 4 p.m. each weekday to make sure your child gets home safely from school. Once you create a Safety Check, Sprint Family Locator will locate your family member and send their location via email or text.
+Create a Safety Check
+From the home screen of Sprint Family Locator, click the Safety Checks tab Click the Safety Checks link for the family member you want to check Choose the place where you expect your family member to be at the time you
+will set in the Safety Checks. If you haven't created any places, select New
+Place and you will be able to set one. Select the time and day of the week at which to locate your family member and
+click Continue . You can select multiple days for a Safety Checks. Select to receive a text or email with your family member's location
+information. You also may choose to enter an additional email address. Note: By default, Safety Checks only tell you when you family member's
+phone is NOT at a specific place at a certain time. If you also would like to
+know whether your family member's phone IS at a specific place, check the box
+that says Also send messages when a family member is near place . Click Save",general,,
+1198,no_device,[],[],[],,HD voice,FAQs about HD Voice from Sprint,What is HD Voice from Sprint?,"HD Voice is a new Sprint standard for crystal clear voice calls that virtually eliminates background noise. HD Voice provides a fuller, more natural-sounding voice, plus noise cancelling technology that helps reduce background noise from places like a busy road, a crowded restaurant or a construction site. Noise cancellation also reduces the effect of extreme weather conditions like a windy day.
+There is no additional charge for using HD Voice.",general,,
+1678,appl_iphon_4_8gb,['software'],['internet&network'],['data'],"enable mobile data, disable mobile data",,Enable/disable mobile data on your Apple iPhone 4,Enable/disable mobile data on your Apple iPhone 4,"Steps to enable or disable mobile data on your Apple iPhone 4 
+   You may wish to disable mobile data to improve battery life or while troubleshooting connectivity issues. 
+    
+    From the home screen, tap the Settings icon. 
+    Tap General. 
+    Tap Cellular. 
+    Next to Cellular Data, tap the toggle switch to enable or disable mobile data. 
+    Note: If the Cellular Data setting is On, mobile data is enabled.",device,,
+75,no_device,[],[],[],,sprint one up,Learn more about Sprint One Up,What is Sprint One UpSM?,"Sprint One UpSM was a program that retired on 1/9/2014. The program consisted of customers who purchased an eligible smartphone with no down payment, depending on device, and agreed to 24 monthly installment payments for the device.",general,,
+931,no_device,[],[],[],program a device,,Program your Nexus 5X,Program your Nexus 5X,"Steps to activate your Nexus 5X
+Symptoms:
+Phone is not active Unable to make or receive calls Unable to send or receive text messages
+Note: Before you try these steps, check the Sprint coverage map and verify that you are in an area with good coverage. A compatible Sprint SIM card is necessary for your Nexus 5X to activate. You can obtain a Sprint SIM card by visiting a convenient Sprint Repair center.
+Hands-free activation
+If this is the first time activating your phone, hands-free activation automatically runs in the background as you go through the initial sign-in process.
+Initial sign-in and first use
+Update the data profile
+If this is not the first time activating your phone or hands-free activation did not complete successfully, update the data profile.
+Update the data profile
+Reset network connection
+If the activation methods above did not work, reset your network connection.
+From the home screen, tap Phone . Dial *#*#72786#*#* . Your phone will restart. After it restarts and reconnects to the network, your phone automatically launches hands-free activation.
+If you are having trouble activating your Nexus 5X, make an appointment at a convenient Sprint Store.",general,,
+1008,no_device,"['hardware', 'software']","['sound', 'default_apps']","['rington', 'music']",unsubscribe from Credit Bundles,"Credit Bundles, Sprint Music Plus",FAQs about Sprint Music Plus full track and ringtone bundles,How do I unsubscribe from Credit Bundles?,"Unsubscribing from the Credit Bundles can be done through the fly-out menu (click top left corner of screen to access the menu) of the Sprint Music Plus app. You can unsubscribe in the ""Settings"" menu.",general,,
+121,no_device,['bill'],['bill'],[],learn about bill,,New customers: Learn about your first bill,New customers: Learn about your first bill,Take a tour of the new bill below. Hover over the yellow annotations to learn more about each section. Use the page links to check out each page.,general,,
+348,no_device,"['device', 'software']",['internet&network'],"['data', 'wifi']",,"data connectivity, Netgear 341U USB Modem",FAQs about the data connectivity of your Netgear 341U USB Modem,Can my computer connect to Wi-Fi while using this device?,Yes. The Netgear 341U USB Modem disconnects when you connect to Wi-Fi.,general,,remove
+1006,no_device,[],[],[],,"Sprint Discount Program, discount on invoice",FAQ related to the Sprint Discount Program,When will the discount appear on my invoice?,"Once we validate your information, the discount will appear on your invoice in 1 to 2 billing cycles.",general,,
+2088,samsung_galaxi_s7,['software'],"['setting', 'email']",['setting'],"set up email, setup email",personal email,Set up personal email - Samsung Galaxy S7,Set up personal email - Samsung Galaxy S7,,device,,
+207,no_device,['software'],['internet&network'],"['roaming', 'data']",troubleshoot issues,data roaming,Learn more about data roaming,What  if I have issues while roaming?,"If you are having a problem with calls or data while roaming, please contact us to report your roaming problem. For domestic roaming, contact us at 1-888-211-4727. When you are roaming, you will not be able to contact Sprint Customer Care by dialing *2 Talk. For international roaming, chat with Sprint Worldwide Care at www.sprint.com/international (click Chat with us) or call 1-817-698-4199 (option 3).",general,,
+1782,samsung_galaxi_s7,['troubleshoot'],[],[],troubleshoot issues,"special edition, charging issue",Troubleshoot charging issues on your Samsung Galaxy S7 Special Edition,Troubleshoot charging issues on your Samsung Galaxy S7 Special Edition,"This article helps troubleshoot charging issues on your Samsung Galaxy S7 Special Edition 
+  You may have charging issues if your Samsung Galaxy S7 Special Edition: 
+   
+   Doesn't charge 
+   Charges slowly 
+   
+  Try each of these steps if your phone has charging issues. 
+   
+    Verify that your phone and charging port are not damaged.  
+     
+     Carefully inspect your phone to be sure it's not overheating, swollen or damaged. 
+     Carefully inspect your phone's charging port and remove any debris. 
+     Caution: If your phone is damaged, do not complete the remaining steps in this guide. Make an appointment at a convenient Sprint Repair center.   
+    Verify whether your Samsung Galaxy S7 Special Edition can power on.  
+     
+     Press and hold the Power key. 
+      
+      If your Samsung Galaxy S7 Special Edition does not turn on, troubleshoot when your Samsung Galaxy S7 Special Edition doesn't turn on. 
+      
+      
+    Verify that your charger is working.  Connect your phone to your charger and see if the charging icon displays. Note: You risk severe damage to your phone if the charger isn't the same voltage, amps, and plug type as your original charger. You can purchase compatible chargers on sprint.com and at any Sprint Store.   
+    Verify that your Samsung Galaxy S7 Special Edition is running the most recent software.  There may be a software update that improves battery life on your phone. Check for software updates.  
+    Safely remove your SD card.  
+     
+     From the home screen, tap Apps. 
+     Tap Settings. 
+     Scroll to and tap Storage. 
+     Tap SD card. 
+     Tap Unmount. 
+     Remove the SD card. 
+      
+    Perform a soft reset.   A soft reset restarts your phone and does not erase any of your content or data. 
+     
+     Press and hold the Power and Volume down keys at the same time. 
+     Release both keys as soon as the device restarts. 
+      
+   
+  If you're still having issues, try the Sprint Community pages, troubleshoot battery life, or make an appointment at a convenient Sprint Repair center.",device,,
+570,no_device,[],[],[],change security question or answer,"My Sprint, security question",Change your security question or answer in My Sprint,Change your security question or answer in My Sprint,"Your security question and answer can be used to help retrieve your account PIN or validate that you're the account holder if you ever forget your PIN.
+When you create your account PIN, you will select a security question and provide an answer only you will know. You will use the question and answer to verify your identity in case you forget your account PIN.
+To change your security question and your PIN:
+Sign in to My Sprint Click the My Preferences tab In the All about My Account area, click My account PIN On the Your Account PIN page, select a new security question and enter
+the answer to your question. For example, you can select the question First
+pet's name? and enter the answer Fido . Capitalization and spacing
+count. Click Submit after you enter your answer",general,,
+184,no_device,['software'],"['setting', 'email', 'message', 'calls']","['setting', 'voicemail']",,"voicemail, welcome message",FAQs about Sprint voicemail,Why do I keep getting a welcome to voicemail message after my mailbox is already set up?,"The Welcome to Voicemail message is only received when a new mailbox has been established and you are calling for the first time to set it up. If this message is received for an established mailbox, contact us.
+",general,,
+1322,no_device,[],[],[],know discount offers,"Sprint Discount Program, discount offers",FAQ related to the Sprint Discount Program,How do I know if Sprint offers a discount to my company or organization?,"Go to sprint.com/save and look up your company by typing in your company email address.You alsocan call 1-866-639-8354 or visit a Sprint retail store. Eligibility will depend on the agreement established between Sprint and your employer, school or organization.",general,,
+289,no_device,[],[],[],,"fraud claim resolution, fraud claim",Timeline for fraud claim resolution,Timeline for fraud claim resolution,"Once your fraud packet is received, Sprint will review the documentation and contact you (the victim) by mail with the result of the investigation. It may take up to 30 days from the date of receipt to investigate your case fully. However, if you want your case to be reviewed faster, you may overnight your packet to Sprint Fraud Management. Sprint will review these packets within 48 business hours of receipt.
+If your account is confirmed fraud, Sprint will close the account that was opened using your name and personal information and will adjust any balance on the account to zero. Any collection agency assigned will be notified that the account is fraudulent. It may be necessary for Sprint to contact you during normal business hours regarding your claim, so ensure that you have provided a valid daytime contact number. We also recommend you keep a copy of all documents submitted for your records.
+Sprint is committed to maintaining quality customer focus. We regret this incident occurred and apologize for any inconvenience.",general,,
+1079,samsung_galaxi_s7,['software'],['default_apps'],['key feature'],,"special edition, key features, special application",FAQs related to key features on your Samsung Galaxy S7 Special Edition,Does my Samsung Galaxy S7 Special Edition have any special features?,"Yes, your Samsung Galaxy S7 Special Edition has a Fingerprint scanner, which allows you to use your fingerprint to unlock your phone and features an Always On Display, which can display the time or certain widgets while the rest of the screen is turned off.
+It also has Advanced camera features, such as Motion photo, Tracking Auto Focus and Video stabilization that allows you to customize your photos as you like.",device,,
+849,appl_iphon_4_8gb,"['service', 'hardware', 'software']","['phone', 'sound', 'setting']","['rington', 'notification', 'sound']","change ringtone, change notification sound","phone ringtone, notification sound",Change the phone ringtone and notification sound on your Apple iPhone 4,Change the phone ringtone and notification sound on your Apple iPhone 4,"Steps to change the phone ringtone for calls on your Apple iPhone 4 
+    
+    From the home screen, tap Settings. 
+    Tap Sounds. 
+    Tap Ringtone. 
+    Tap your preferred ringtone. 
+    You've now changed the ringtone. 
+    
+   Steps to change the notification ringtone for texts on your Apple iPhone 4 
+    
+    From the home screen, tap Settings. 
+    Tap Sounds. 
+    Tap Text Tone. 
+    Tap your preferred ringtone. 
+    You've now changed the ringtone. 
+    
+   Steps to change the notification ringtone for emails on your Apple iPhone 4 
+    
+    From the home screen, tap Settings. 
+    Tap Sounds. 
+    Scroll to and tap New Mail. 
+    Tap your preferred ringtone. 
+    You've now changed the ringtone.",device,,
+275,no_device,"['hardware', 'software']","['activate ', 'internet&network']","['sim', 'network']","improve network connection, improve network experience",,Improve your network experience,What simple actions could improve my network connection?,"Restart your phone to refresh the wireless signal. On most devices, you can go into Settings to perform these actions: Connect to Wi-Fi. Perform routine software updates on your device. Update the Preferred Roaming List (PRL) on your device to enhance connections and prolong battery life. Refresh your phones data profile.
+",general,,
+284,no_device,"['service', 'hardware', 'software']","['service', 'sound', 'default_apps']","['rington', 'music']","download a track, download an album, download a ringtone","Sprint Music Plus, loss of service",Learn more about Sprint Music Plus,"I tried downloading a full track/album/ringtone, but was interrupted by loss of service. How do I re-download?","During a loss of service, a download in progress will be stored as ""pending download."" You can restart the download at no additional charge. As a reminder, ringback tones are not a downloaded service--there is no file downloaded to your phone as it is a network-based service only.
+",general,,
+404,appl_iphon_4_8gb,['device'],[],[],,Sprint As You Go,FAQs related to Sprint As You Go on your Apple iPhone 4,How does a Sprint As You Go device differ from other Sprint devices?,"Depending on the service plan and Sprint As You Go device, data roaming may not be enabled and certain preinstalled applications may not be available or operational. Examples of these applications include, but are not limited to, Sprint TV, Sprint Music, TeleNav, GPS Navigator, and Mobile Hotspot applications.
+In addition, Sprint As You Go devices may not be able to purchase other subscription-based third-party content from application stores or bill third-party purchases to a Sprint account.",device,,
+919,appl_iphon_4_8gb,['software'],"['setting', 'email', 'calls']","['setting', 'voicemail']","set up visual voicemail, access visual voicemail",visual voicemail,Set up and access Visual Voicemail - Apple iPhone 4,Set up and access Visual Voicemail - Apple iPhone 4,"From the home screen, tap Phone.
+
+	Tap the Voicemail tab.
+
+	Tap Greeting.
+
+	Touse thedefault greeting, leave Default checked and tap Save.
+
+	Tap Custom to record a personal greeting.
+
+	Tap Record to begin recording the personal greeting.
+
+	Tap Stopwhen the recording is finished.
+
+	Tolisten to the new greeting, tap Play. To re-record the greeting, tap Record.
+
+	Once the greeting is finished, tap Save.
+
+	Visual Voicemail is now set up.
+
+	New messages will appear on the voicemail screen for review and playback.
+
+	Tap a message to begin playback. 
+
+	To remove a message, tap Delete.
+
+	To permanently delete messages, tap Deleted Messages.
+
+	Tap Clear All.
+
+	Tap Clear All.
+
+	Visual voicemail is now set up.",device,,
+1365,no_device,['service'],['accessory'],[],,"monthly installments, accessories, installment agreement",FAQs about monthly installments for accessories,Is an Installment Agreement required?,"Yes, you will sign an Installment Agreement that allows you to pay for the accessory with monthly installments. You will not be subject to a Service Agreement or term commitment when buying an accessory alone.",general,,
+1696,samsung_galaxi_s7,['software'],['internet&network'],['wifi'],"turn on wifi, connect to wifi",special edition,Turn on and connect to Wi-Fi - Samsung Galaxy S7 Special Edition,Turn on and connect to Wi-Fi - Samsung Galaxy S7 Special Edition,"From the home screen, swipe down the Status bar.
+
+	Tap the Settings icon.
+
+	Note: If the phone has been previously connected to any Wi-Fi network, to turn Wi-Fi on or off, tap the Wi-Fi icon.
+
+	Wi-Fi is blue when turned on.
+
+	Tap Wi-Fi.
+
+	If Wi-Fi is already enabled, skip this step.
+
+	Otherwise, tap the switch to turn Wi-Fi on.
+
+	The device will automatically search for available networks.
+
+	Tap a Wi-Fi network.
+
+	Note: If the network is hidden or not available, tap MORE, then tap Add network to manually enter the settings.
+
+	If prompted, enter the network Password and tap CONNECT.
+
+	The device is now connected to the Wi-Fi network.",device,,
+544,no_device,"['device', 'service', 'hardware']","['phone', 'camera']",['phone'],"unlock prepaid device, receive MSL code",Sprint Prepaid phone,Sprint Prepaid phone unlocking policy and FAQs,I am a former Sprint Prepaid customer or was never a Sprint Prepaid customer but have purchased a Sprint Prepaid device from a third party other than Sprint Prepaid. Can I have the device unlocked or receive the MSL code?,"For individual owners who can provide the Sprint Prepaid telephone number or account number last associated with the device, Sprint Prepaid may be able to unlock the device and/or provide the applicable MSL Code, provided the device is eligible under the applicable policy above. If a device is not eligible for any reason under the respective applicable policy, a non-Sprint Prepaid customer requestor may be required to work with the original purchaser and/or the person from whom the requestor purchased the device to ensure any financial or device eligibility criteria are met. Customers are strongly encouraged to contact Sprint Prepaid about a device's unlock eligibility before purchasing through a non-Sprint Prepaid channel as Sprint Prepaid cannot share information regarding an unauthenticated account.
+This policy is subject to change without notice at Sprint's discretion.",general,,
+58,no_device,"['device', 'hardware']",['activate '],[],,"monthly installments, activation fee, upgrade fee",FAQs about monthly installments,Is there an activation or upgrade fee for customers who purchase a device with monthly installments?,"For consumers and individual liable customers, a $30 activation or upgrade fee will apply on the customer's first invoice. For business customers, standard activation fees will apply on the customer's first invoice.",general,purchase a device with monthly installments,
+223,no_device,['hardware'],['activate '],[],,Sprint One Up,Learn more about Sprint One Up,What if I go on Military Suspend with an active Installment Agreement?,"If your line is suspended under our currently military suspend program, your installment billing payments will also suspend and your payments and service will resume upon your return from military service.",general,,remove
+1174,no_device,['service'],['plan'],[],switch plan,framily plan,Learn about changes to the Sprint Framily Plan,I'm on the Framily plan. Can I switch to a different plan?,"All lines on an existing customer's account can switch to a different plan by meeting one of the following conditions:
+One phone on your account was purchased on Sprint Easy Pay One line is no longer under a one or two-year term agreement One line is Upgrade eligible on your account and upgrading to a new device on your account By adding a new line of service to these plans on your account Note: The line meeting one of the above conditions must switch to the Family Share Pack or $60 Unlimited plan for other lines on the account to be eligible to switch.",general,,
+1815,samsung_galaxi_s7,['software'],['internet&network'],['data'],update data profile,data profile,Update data profile - Samsung Galaxy S7,Update data profile - Samsung Galaxy S7,"From the home screen, swipe down the Status bar.
+
+	Note: Updating the data profile requires the device be in a Sprint coverage area. To verify Sprint Coverage, visit the Sprint website at coverage.sprint.com.
+
+	Tap the Settings icon.
+
+	Scroll to and tap System Update.
+
+	Tap Update Profile.
+
+	Once the profile update is complete, tap OK.
+
+	The data profile is now up to date.",device,,
+537,no_device,[],[],[],,"web pricing, Buy Online Pick Up in Store","FAQs about Buy Online, Pick Up in Store",How does web pricing work?,"Discount web pricing applies to new lines of services or fully eligible upgrades with a 2-year agreement. If you're not eligible for an upgrade, you'll need to pay full retail prices for device purchases. Online offers may not be combined with other offers.",general,,
+375,no_device,"['device', 'service', 'hardware']","['phone', 'camera']",['phone'],,prepaid phone,Sprint Prepaid phone unlocking policy and FAQs,What does it mean for my device to be 'locked'?,"The term ""locked"" typically refers to a device that can only be used on the Sprint network and cannot be activated on a competing carrier's network. An ""unlocked"" device is no longer locked to Sprint Prepaid services and the user may attempt to activate it on another carrier's network. There are generally two scenarios for locking/unlocking:
+Domestic SIM Unlocking (""DSU""): A device may be referred to as 'locked' if that device was manufactured with programming restrictions that prevent another carrier's SIM card from being inserted into the SIM slot for use on a different network.  Generally, most smartphones launched after February 2015 are DSU-capable  meaning the SIM slot can be unlocked for potential usage on other carriers in the United States. Even if unlocked, Sprint DSU-capable devices may not work on another carrier's network. Whether an unlocked Sprint device can be used on another carrier's network is subject to that carrier's policies and network compatibilities. MSL Unlocking: A device is 'locked' if it is manufactured with a type of disabling software and a locking code (referred to as 'Master Subsidy Lock' or 'MSL'). Generally, MSL locks were utilized on devices launched before February 2015.  Sprint can provide the MSL code to eligible customers, however this does not mean that the device will be able to be successfully used on any other carrier domestically. Whether another carrier will accept and activate a device on its network is subject to that carrier's policies and compatibilities.",general,,
+2154,no_device,['service'],['service'],[],cancel service,,FAQs about canceling your Sprint service,How do I cancel my Sprint service?,"We strive to offer you the Best Value in Wireless. In the event you need to cancel your service, dial *2 from your Sprint phone or call 888-211-4727. For business plan cancellations, dial *2 from your Sprint phone or call 800-927-2199. If you've entered into a two-year Service Agreement and cancel service before your contract ends, you may be subject to an early termination fee. Visit sprint.com/etf to learn more. If you've signed up for an Installment Billing Agreement and cancel service, the remaining balance on your device becomes due. Visit sprint.com/easypay to learn more. If you're leasing a device and cancel service at any time during your lease term, you will have to pay the remaining lease payments plus the device purchase option price set forth in the Lease Agreement. Visit sprint.com/lease to learn more.",general,,
+564,no_device,"['device', 'service', 'hardware']","['phone', 'eligible', 'camera']",['phone'],,"device protection, phone repair",FAQs about device protection,What phones are eligible for repair?,Most active/current Sprint devices on postpaid plans are eligible for repair. In-store service technicians can determine whether a device is eligible for repair or replacement.,general,,
+1431,no_device,"['troubleshoot', 'software']",['internet&network'],['hotspot'],troubleshoot hotspots,mobile hotspots,Troubleshoot issues related to mobile hotspots and your Apple iPhone 6 Plus,Troubleshoot issues related to mobile hotspots and your Apple iPhone 6 Plus,"This article helps troubleshoot mobile hotspot issues on your Apple iPhone 6 Plus.
+You may have mobile hotspot issues if you:
+See Error 67 on your Apple iPhone 6 Plus Can't connect another device to your Apple iPhone 6 Plus mobile hotspot Connect to the mobile hotspot but can't browse
+These steps help identify and resolve the underlying cause. After completing each step, test to see if the issue is fixed. If not, continue to the next step.
+Verify you've enabled and set up mobile hotspot on your Apple iPhone 6 Plus.
+Turn Wi-Fi hotspot on.
+To Set up the iPhone 6 Plus as a Wi-Fi hotspot:
+From the Home screen tap Settings. Tap Cellular. Tap Personal Hotspot . Tap Wi-Fi Password . Enter a password, then tap Done. Tap the Personal Hotspot switch to enable it.
+Verify that mobile data is enabled.
+From the home screen, tap Settings . Tap Cellular . Next to Cellular Data , tap the toggle switch to enable mobile data.
+Verify your Apple iPhone 6 Plus is connected to the Sprint network using Safari.
+Some features and applications require a data connection to work properly.
+From the home screen, tap Safari . Try to browse to a web page. If the data connection fails, update the profile . Test your device to see if the issue is resolved.
+Verify your subscription has an active mobile hotspot add-on.
+On sprint.com, log in to your My Sprint to verify the add-on is active on the subscription.
+Without the hotspot add-on, you can't share your Apple iPhone 6 Plus mobile hotspot with other devices.
+Perform a soft reset.
+A soft reset restarts your phone and does not erase any of your content or data.
+From the home screen, press and hold the Power key and the Home key. Release the Power key and the Home key when the Apple logo appears. Your Apple iPhone restarts.
+Note: To optimize device performance, be sure your Apple iPhone 6 Plus is running the most recent device software. Check for software updates.
+If you're still having issues, please try the Sprint Community pages or make an appointment at a convenient Sprint Repair center for more help.",general,,
+670,samsung_galaxi_s7,[],[],[],use Private mode,private mode,FAQs related to Private mode on your Samsung Galaxy S7,How do I use Private mode?,Set up and use Privacy mode.,device,,
+1055,no_device,['bill'],"['pay', 'payment']",[],,payment arrangement,FAQs about payment arrangements,What is a payment arrangement?,"A payment arrangement gives qualified customers extra time to pay past due or the total balance on their account. Payment arrangements are scheduled payments that automatically process on the date selected with a selected payment method.
+How do I know if I qualify for a payment arrangement?
+The process is easy and helps keep your account protected, but remember past due payments may be subject to late fees. If your account is past due:
+Sign into your My Sprint account. Go to Payment Center . Click the Other date button. Click the calendar icon . Select a date that is convenient for you. A message will display if you are able to establish a payment arrangement.
+
+If your account does not qualify for a payment arrangement you may be allowed to schedule a future dated payment. Please note that a future dated payment does not protect your account from collection activity.
+Will a payment arrangement prevent late fees?
+No. Any past due balance paid after the due date may be subject to late fees.",general,,
+1291,no_device,['service'],['plan'],[],,Framily Plan,Learn about changes to the Sprint Framily Plan,How can I check how many individuals are in the group I am in or if individuals join or leave the group?,"You can find the number of individuals in your Framily group by logging into your My Sprint account at sprint.com. As an account holder, your account must be set up properly to receive a notification via text or email when an individual is added to or removed from the group you are in. You will also receive a notification when an unsuccessful attempt to add a member is made and the group is already at the maximum number of 10. It's important to set up your account properly to ensure you get notifications. Follow these easy steps to keep your settings up to date: Visit sprint.com/preferences and sign in to My Sprint. Click the Account & usage notifications link in the All about me section. Edit or add your email address under Account notifications . Select email or text as your preferred notification method under Security & usage notifications . Edit or add your email address or phone number.",general,,
+183,no_device,[],[],[],pick up order,Buy Online Pick Up in Store,"FAQs about Buy Online, Pick Up in Store",Can someone else pick up my order for me?,See above. But short answer: no.,general,,
+444,no_device,['software'],['internet&network'],"['roaming', 'data']",purchase a data roaming pass,"Sprint Global Roaming, data roaming, international high speed roaming",FAQs about Sprint Global Roaming,How do I purchase a Sprint International High-Speed Data Roaming Pass?,"You can add a high-speed data pass at any time while you are traveling in a few simple clicks. Simply click the link in the welcome text message provided upon arrival to your destination, and choose your data experience.",general,,
+259,no_device,"['service', 'hardware']","['number', 'phone', 'camera']",['phone'],"change phone number, change address",,Change your phone number and address on sprint.com,Change your phone number and address on sprint.com,"There may be occasions where you need to change your phone number. You can change your phone number to a different number anywhere Sprint provides service. There is no fee for changing your number when using My Sprint.
+Restrictions:
+You cannot choose a specific number. A new number will be randomly assigned. You cannot change your phone number more than 3 times in 30 days. Once your phone number is changed, you cannot switch back to your current number. You will need to set up a new voicemail account and all your saved voicemail messages will be lost. Changing your phone number will remove block or allow lists associated with that number. You will need to manually set up these lists for your new number. You cannot port over a number from another carrier through this self-service process.
+You might need to change your phone number if:
+You need a new phone number in the same area You need a different area code for this phone You are moving and need to change your billing address and phone number.
+If you are moving and would like to update your service or billing address AND phone number:
+Select I am moving and need to change my billing address and phone number Enter new billing address and click Save & continue Based on the billing address entered, new area codes may be available. Select your area code and click Continue . Agree to the Terms on the following page and click Continue to get your new phone number and area code. Your new phone number and area code will display.
+IMPORTANT:
+Your phone will need to be programmed with your new phone number. Many of our phones program automatically over the air on our network.
+Turn on your phone. Wait a minute and then try to make a phone call. If you succeed, you are done.
+If you cannot make a phone call, you will need to manually enter the information below to complete programming:
+Master lock code New phone number MSID(IMSI)
+It may take up to 72 hours for the new phone number to display for Caller ID. Please wait 15 minutes for your new number to appear on sprint.com.
+If you still cannot make calls after manual programming your phone, please chat with an agent at www.sprint.com/chat or visit a local retail store for programming assistance.",general,,
+594,no_device,"['account', 'service']","['account', 'eligible']",[],,"monthly installments, prepaid account",FAQs about monthly installments,Are prepaid accounts eligible for monthly installments?,No. Prepaid accounts are not eligible for monthly installments.,general,,
+1495,no_device,"['bill', 'software']","['cost', 'internet&network']","['roaming', 'data']",[],"Sprint Global Roaming, international high speed data roaming",FAQs about Sprint Global Roaming,How much does the Sprint International High-Speed Data Roaming Pass cost?,"High-speed data options are available for purchase on your smartphone, via the Welcome SMS message that was sent when you arrived at your destination. Select the speed you need with inexpensive options for single day and/or weeklong high-speed experiences
+Canada & Mexico $2/day $10/week Most other destinations $5/day $25/week China $10/day $50/week",general,,
+1633,samsung_galaxi_s7,['software'],"['setting', 'email']",['setting'],setup email,Exchange email,Set up Exchange email - Samsung Galaxy S7,Set up Exchange email - Samsung Galaxy S7,"From the home screen, tap Email.
+
+	Note: If the shortcut is not available, tap Apps, scroll to and tap the Samsung folder, then tap Email.
+
+	Tap ADD NEW ACCOUNT.
+
+	Note: If no email account (Google or POP/IMAP) exists, enter your Email address and Password, then tap SIGN IN. If a POP/IMAP email account already exists, tap MORE, tap Settings, then tap Add account.
+
+	Enter the Email address and Password.
+
+	When finished, tap SIGN IN.
+
+	Note: If you receive an app permission prompt for Email, tap ALLOW.
+
+	The device will attempt to set up the account automatically.
+
+	If the settings are detected, tap the preferred sync settings and tap SIGN IN. Enter a name for the account and then tap DONE. The email account is now set up.
+
+	If the settings are not found, tap MICROSOFT EXCHANGE ACTIVESYNC.
+
+	Note: If an Unable to set up account prompt appears:
+
+	
+		Tap OK.
+	
+		Tap MANUAL SETUP.
+	
+		Tap MICROSOFT EXCHANGE ACTIVESYNC.
+
+
+	Verify the Email address, Domain\username, Password and Exchange server are correct.
+
+	Tap to check or uncheck Use secure connection (SSL) and Use client certificate as required.
+
+	When finished, tap SIGN IN.
+
+	If prompted to Activate Email, read the message and tap OK to continue.
+
+	Tap to set the preferred sync settings.
+
+	When finished, tap SIGN IN.
+
+	Enter a name for the Exchange account, then tap DONE.
+
+	The Microsoft Exchange ActiveSync account is now set up.",device,,
+480,no_device,['account'],['account'],[],"enable content filter, disable content filter","parental control, content filter",FAQs about parental controls using content filters,I am the account owner. How do I enable/disable the content filter?,"From your computer or tablet:
+Visit sprint.com/mysprint . Click the Sign in button. Enter your username and password and sign in. Click My Preferences . Scroll to the Limits and permissions section. Click the Content filter link. Follow the instructions on screen.
+From your smartphone:
+Visit sprint.com/mysprint . Click the Sign in button. Enter your username and password and sign in. Tap Manage your devices . Tap the Limits and permissions link next to your device. Scroll to the Content filter section. Follow the instructions on screen.",general,precondition: i am the account owner,
+1387,samsung_galaxi_s7,['troubleshoot'],[],[],troubleshoot phone,,Troubleshoot when your Samsung Galaxy S7 Special Edition doesn't turn on,Troubleshoot when your Samsung Galaxy S7 Special Edition doesn't turn on,"This article helps troubleshoot your Samsung Galaxy S7 Special Edition not turning on 
+  You may have this issue if your Samsung Galaxy S7 Special Edition: 
+   
+   Doesn't turn on 
+   Starts to turn on but restarts or shuts down before it turns on completely 
+   
+  Try each of these steps if your phone doesn't turn on. 
+   
+    Verify that your Samsung Galaxy S7 Special Edition has a sufficient charge.  
+     
+     Connect your original charger to your phone. 
+     After a few minutes, try to turn on your phone. 
+      
+    Verify that your phone and charging port are not damaged.  
+     
+     Carefully inspect your phone to be sure it's not overheating, swollen or damaged. 
+     Carefully inspect your phone's charging port and remove any debris. 
+     Caution: If your phone is damaged, do not complete the remaining steps in this guide. Make an appointment at a convenient Sprint Repair center.   
+    Verify that you are using a compatible charger.  You risk severe damage to your phone if the charger isn't the same voltage, amps, and plug type as your original charger. You can purchase compatible chargers on sprint.com and at any Sprint Store.  
+    Attempt a forced restart of the phone.  Note: If performed correctly, a forced restart will not erase any information from the phone.  
+     
+     Press and hold the Power and Volume down keys at the same time. 
+     Release both keys as soon as the device restarts. 
+     If your Samsung Galaxy S7 Special Edition does turn on, verify that it is running the most recent software. Check for software updates.  
+    Attempt a hardware factory reset.  Note: A hardware factory reset will erase ALL information on the phone! Any information that is not backed up online or to the SD card will be PERMANENTLY LOST.  Perform a hardware factory reset.  
+   
+  If you're still having issues, try the Sprint Community pages make an appointment at a convenient Sprint Repair center.",device,precondition: phone doesn't turn on,
+1503,appl_iphon_4_8gb,['hardware'],['battery'],[],,"phone battery, battery inconsistent life",FAQs related to the battery on your Apple iPhone 4,Why is my Apple iPhone 4 battery life inconsistent?,"How fast your battery runs down depends on what you do on your Apple iPhone 4. Features like Bluetooth, games, and web browsing put more strain on the battery than simple features like voice calls and text messages.",device,,
+1106,no_device,"['device', 'software']",['internet&network'],"['roaming', 'wifi']",,"parental control, content filters,",FAQs about parental controls using content filters,Does the content filter work when a device is roaming or using Wi-Fi?,No. The content filter will only work for web pages accessed via the Sprint network. It will not work if the device is roaming or using Wi-Fi.,general,"precondition: device roaming, device using wi-fi",
+1494,samsung_galaxi_s7,['software'],"['setting', 'email', 'calls']","['setting', 'voicemail']","set up visual voicemail, access visual voicemail",visual voicemail,Set up and access Visual Voicemail - Samsung Galaxy S7,Set up and access Visual Voicemail - Samsung Galaxy S7,"From the home screen, tap Apps.
+
+	Scroll to and tap the Sprint folder.
+
+	Tap Voicemail.
+
+	Swipe left through the Welcome to Visual Voicemail screens, then tap DONE.
+
+	Note: To skip the Welcome messages, tap SKIP.
+
+	If prompted, read the Give Permission message and tap OK, then review each permission request and tap the preferred option.
+
+	Tap PERSONALIZE.
+
+	The device will automatically dial the voicemail number.
+
+	Follow the voice prompts to set up the voicemail account.
+
+	Once the passcode, name, and greeting are set up, listen to the remaining instructions and tips.
+
+	Tap the End Call button when finished.
+
+	Your voicemail is now set up.
+
+	To listen to a message, tap the message.
+
+	Tap the Play button to begin playback.
+
+	
+		Tap the Call icon to return the call.
+	
+		Tap the Reply icon to respond with a message.
+	
+		Tap the Pause/Play button to pause or resume the message.
+	
+		Tap the Speaker button to turn speakerphone on or off.
+	
+		Tap and drag the playback slider to skip to a specific part of the message.
+
+
+	For additional options, tap the Menu icon.
+
+	To move the message to the Trash folder, tap Delete.
+
+	To share the message, tap Share and follow the steps.
+
+	To archive the message, tap Archive message.
+
+	Otherwise, tap the Back key twice to return to the Inbox.
+
+	Note: Deleted messages are stored in the Trash folder for 30 days, after which they are permanently deleted.
+
+	Archived messages are stored indefinitely.
+
+	New messages will automatically be displayed in the Inbox.
+
+	Note: To access other folders, swipe right from the edge of the screen to open the Side menu, then tap the folder.
+
+	For additional voicemail settings, tap the Menu icon in the upper right, then tap Settings.",device,,
+1792,no_device,[],[],[],program device,,Program your Nexus 6,Program your Nexus 6,"Program your Nexus 6
+Steps to activate your Nexus 6
+Symptoms:
+Phone is not active Unable to make or receive calls Unable to send or receive text messages
+Note: Before you try these steps, check the Sprint coverage map and verify that you are in an area with good coverage.
+Hands-free activation
+If this is the first time activating your phone, hands-free activation automatically runs in the background as you go through the initial sign-in process.
+Initial sign-in and first use
+Update the data profile
+If this is not the first time activating your phone or hands-free activation did not complete successfully, update the data profile.
+Update the data profile
+Reset network connection
+If the activation methods above did not work, reset your network connection.
+From the home screen, tap the Phone icon. Tap the Keypad icon. Dial *#*#72786#*#* . Tap OK . Your phone will restart. After it restarts and reconnects to the network, your phone automatically launches hands-free activation.
+If you are having trouble activating your Nexus 6, make an appointment at a convenient Sprint Store.",general,,
+1594,samsung_galaxi_s7,['troubleshoot'],[],[],"troubleshoot phone, troubleshoot device","slow device, slow phone, phone freezes, device freezes, device turns off unexpectedly","Troubleshoot when your Samsung Galaxy S7 Special Edition slows, freezes, or turns off unexpectedly","Troubleshoot when your Samsung Galaxy S7 Special Edition slows, freezes, or turns off unexpectedly","This article helps troubleshoot your Samsung Galaxy S7 Special Edition slowing,freezing, or turning off unexpectedly. 
+  You may have performance issues if your Samsung Galaxy S7 Special Edition: 
+   
+   Performs slowly 
+   Freezes 
+   Turns off or unexpectedly restarts 
+   Displays error messages 
+   Is unable to install or update applications 
+   
+  Try each of these steps to see if it helps improve your phone's performance. 
+   
+    Safely remove your SD card.  
+     
+     From the home screen, tap Apps. 
+     Tap Settings. 
+     Scroll to and tap Storage. 
+     Tap SD card. 
+     Tap Unmount. 
+     Remove the SD card. 
+      
+    Perform a soft reset.   A soft reset restarts your phone and does not erase any of your content or data. 
+     
+     Press and hold the Power and Volume down keys at the same time. 
+     Release both keys as soon as the device restarts. 
+      
+    Determine if your phone has low memory.  
+     
+     From the home screen, tap Apps. 
+     Tap Settings. 
+     Scroll to and tap Storage. 
+     Under Device storage, check the amount of memory used. 
+     If your phone has low memory, troubleshoot low memory issues. 
+      
+    Clear the application cache.  
+     
+     Clear the application cache on your applications to free up space and improve performance. 
+     Be sure you clear only the application cache and not the application data. 
+     When you clear the application data, it removes your personal settings and info such as login information and high scores. 
+     Clearing the application cache doesn't remove your personal settings or information. 
+     
+     
+     From the home screen, tap Apps. 
+     Tap Settings. 
+     Scroll to and tap Applications. 
+     Tap Application manager. 
+     Scroll to and tap an application. 
+     Tap Storage. 
+     Tap CLEAR CACHE. 
+      
+    Close background applications.  Some apps continue to run in the background after you exit them. Sprint recommends that you close background applications when you're not using them.  
+    Verify that your Samsung Galaxy S7 Special Edition is running the most recent software.  There may be a software update that improves battery life on your phone. Check for software updates.  
+   
+  If you're still having issues, try the Sprint Community pages or make an appointment at a convenient Sprint Repair center.",device,,
+1296,samsung_galaxi_s7,['software'],['internet&network'],['roaming'],"turn on roaming, turn off roaming","device roaming, special edition",Turn roaming on or off - Samsung Galaxy S7 Special Edition,Turn roaming on or off - Samsung Galaxy S7 Special Edition,"From the home screen, swipe down the Status bar.
+
+	Tap the Settings icon.
+
+	Scroll to and tap Mobile networks.
+
+	Tap Data roaming.
+
+	Tap Roaming network.
+
+	Tap Home only to disable roaming.
+
+	Tap Automatic to enable roaming.
+
+	The roaming settings are now changed.
+
+	Note: If roaming is enabled, tap to enable or disable specific types of roaming as preferred. If prompted, review the warning and tap the preferred option.",device,,
+1491,no_device,[],[],[],"program device, program phone",,Program your Google Pixel,Program your Google Pixel,"Steps to activate your Google Pixel
+Symptoms:
+Phone is not active Unable to make or receive calls Unable to send or receive text messages
+Note: Before you try these steps, check the Sprint coverage map and verify that you are in an area with good coverage.
+Hands-free activation
+If this is the first time activating your phone, hands-free activation automatically runs in the background as you go through the initial sign-in process.
+Initial sign-in and first use
+Update the data profile
+If this is not the first time activating your phone or hands-free activation did not complete successfully, update the data profile.
+Update the data profile
+Reset network connection
+If the activation methods above did not work, reset your network connection.
+From the home screen, tap the Phone icon. Tap the Keypad icon. Dial *#*#72786#*#* . Tap OK . Your phone will restart. After it restarts and reconnects to the network, your phone automatically launches hands-free activation.
+If you are having trouble activating your Google Pixel, make an appointment at a convenient Sprint Store.",general,,
+2094,appl_iphon_4_8gb,['software'],"['setting', 'email']",['setting'],"set up email, ","pre owned as you go, exchange email",Set up Exchange email - Apple iPhone 4 8GB Certified Pre Owned As You Go,Set up Exchange email - Apple iPhone 4 8GB Certified Pre Owned As You Go,"From the home screen, tap Settings.
+
+	Tap Mail, Contacts, Calendars.
+
+	Tap Add Account.
+
+	Tap Exchange.
+
+	Enter the account email address and password, then tapNext.
+
+	Note: If desired, enter aDescriptionfor the account.
+
+	The phone will attempt to set up the account automatically.
+
+	If the settings are found, tap the desired account synchronizationoptionsand tapSave. The email account is now set up.
+
+	If this fails, tap the Username field and enter the username.
+
+	Enter the domain name and server address (if required).
+
+	Tap Next.
+
+	Note:To verify exchange server settings, contact the email provider or company email administrator.
+
+	Set the switches as desired, then tap Save.
+
+	The Microsoft Exchange account has been configured.",device,,
+629,no_device,['service'],['service'],[],,"sprint discount, sprint discount program, wireless service",FAQ related to the Sprint Discount Program,Does the Sprint discount apply to all wireless services?,"Discount applies only to the data service charge for Better Choice Plans, Sprint Family Share Pack and Unlimited, My Way. Discount is not available with no credit check or Mobile Hotspot add-on. Discount may also apply to select previously available services where specified.",general,,
+554,no_device,['service'],['plan'],[],"change plan online, update plan online, change plan, updata plan",rate plan,Change or update your rate plan online,Change or update your rate plan online,"To change or update your plan online, you must have a valid My Sprint account and be set up with an account owner or account authorized profile. If you are not an account owner and do not have permission to change settings on your account, you will not have permissions to change or update your plan.
+You can change your plan at any time without extending your contract. Plans vary based on your eligibility. Device and term restrictions may apply. Switching plans may result in the loss of service discounts and add-ons.
+Your plan change will be reflected on your next bill.
+Some plans may not work with all devices. Smartphones require activation on a plan that includes data. Once a plan change is made, you cannot change back to your previous plan if it is no longer offered. However, you will be able to switch to other plans that are available.
+To change or update your rate plan online:
+Visit sprint.com/mysprint . Click Sign in . Enter your username and password to sign in. On the My Account tab, scroll to the I want to section on the right-hand side and click Change my plan . Select a new plan. Once you've chosen your plan, click Add to cart at the bottom on the page. Your selection will appear at the top of the page. If you'd like to add optional service add-ons, you can do so by choosing an eligible add-on from the list. Click Continue . Click Checkout to review your new plan, make any changes or checkout. Review your order details to ensure that they are correct. Note: A confirmation email will be sent to the account owner's email address. Scroll down to the bottom of the page, and then click Complete plan change to complete the order, Keep shopping to add more changes , or Empty my cart to cancel the order.",general,,
+508,no_device,[],[],[],create multiple walls,"familywall for sprint, mltiple wall",FAQs about FamilyWall for Sprint,Why would I create multiple Walls?,"With FamilyWall for Sprint, you can create multiple private Walls to communicate with separate groups, such as family, friends, co-workers, teams, clubs and more. For example, you may want a Wall for your immediate family, where you can share pictures, schedules, and member locations privately. You may want a neighborhood Wall, where you and your neighbors can share information about community activities. You may want a Wall for your work team, where you can share work schedules and tasks. You may want a Wall for your sports team or club where you can share photos, videos and important updates. FamilyWall for Sprint makes staying connected to all of the most important people in your life easy by helping you organize them into individual, private groups. Each Wall is separate and private; you get to decide who is invited, and all the shared content is Wall specific, so members of one Wall will not have access to the content of your other Walls.",general,,
+297,no_device,['service'],['accessory'],[],sign up for monthly installments,"monthly installment, monthly installments for accessories, business sales representative",FAQs about monthly installments for accessories,Can I sign up for monthly installments through my Business Sales Representative?,No. Monthly installments are expected to be available in additional business channels in the future.,general,,
+1397,no_device,"['service', 'bill']","['pay', 'payment', 'service']",[],restore service,"payment arrangement, service restoration",FAQs about payment arrangements,Will a payment arrangement restore my service?,"Yes.
+Will a payment arrangement prevent further collection activity?
+Yes, a payment arrangement that remains open and in good standing will prevent further collection activity. If a payment arrangement is cancelled or is unsuccessful, the account will be subject to collection activities.",general,,
+422,no_device,['bill'],"['pay', 'payment']",[],[],"buy online, pick up in stall, payment method","FAQs about Buy Online, Pick Up in Store",What payment methods are accepted?,"We accept all major credit cards. You pay for your order online, so nothing is due on the day of your appointment. But be sure to bring the credit card you used, you will need that to pick up your items. And you'll also need a valid photo ID. We do this as a security measure to ensure that you and only you pick up your order.",general,,
+760,no_device,"['device', 'hardware']",['equipment'],[],"add device protection, add phone protection","total equipment protection, total equipment protection plus",Add Total Equipment Protection or Total Equipment Protection Plus for your devices,How can I add 		Total Equipment Protection or Total Equipment Protection Plus to my device?,Total Equipment Protection and Total Equipment Protection Plus must be added to your device within 30 days of activation or upgrade. See an in-store Sprint representative or contact Asurion at 1-800-584-3666 to enroll.,general,,
+120,no_device,[],[],[],[],Sprint airave,FAQs for the Sprint AIRAVE,FAQs for the Sprint AIRAVE,"What is the Sprint AIRAVE and how does it work?
+The Sprint AIRAVE is a personal base station that provides enhanced voice and 3G mobile broadband coverage for your Sprint CDMA devices (phones, hotspots, tablets and modems). The AIRAVE uses your broadband Internet connection to route calls to the Sprint Nationwide Network.
+Does the Sprint AIRAVE support 3G data?
+Yes. The AIRAVE provides enhanced coverage for any 3G Sprint phone or mobile broadband card at EVDO Rev. A data speeds of up to 3 Mbps downstream and 1.5 Mbps upstream. The AIRAVEs transmission speed is only as fast as your maximum broadband connection speed. Internet congestion, the number of users on your providers network and other factors can decrease your actual speed.
+What wireless devices work with the AIRAVE?
+The AIRAVE is compatible with any Sprint CDMA device. The AIRAVE also supports Boost Mobile and Virgin Mobile prepaid services.
+Does the AIRAVE support Sprint Direct Connect?
+Yes, Sprint Direct Connect (SDC) services that operate on the Sprint network are supported on the AIRAVE.
+How many simultaneous users can use the AIRAVE?
+The AIRAVE supports up to six simultaneous active wireless voice calls, data sessions or combination of both. Up to 50 mobile devices can be associated to the AIRAVE.
+Can I use all my normal mobile phone functions such as voicemail and text messaging with the AIRAVE?
+Yes, with the AIRAVE you can use the same voice functions and text messaging that you use with your Sprint phone.
+What is the range of the AIRAVE?
+The AIRAVE covers up to 5,000 square feet. Actual coverage range is dependent upon many factors, including building construction type.
+Will a Sprint phone automatically detect the AIRAVE?
+Yes, once you move within range of the AIRAVE, your Sprint phone will automatically detect the AIRAVE.
+How do the customers know if they are within the AIRAVE coverage area and making calls on the AIRAVE?
+A short double tone on your wireless phone before making and receiving calls indicates you are within range of the AIRAVE. In addition, you can dial *99 on your wireless phone and a prerecorded message will confirm that you are within the AIRAVE coverage area.
+Does the AIRAVE have an impact on the handsets or battery life?
+Battery life is improved over the AIRAVE because of the increased signal strength it provides. The stronger the signal, the less power the mobile device needs to communicate to the AIRAVE.
+What does a customer need to get started?
+ An AIRAVE device
+ High-speed Internet access  cable/DSL/FT1/T1 (satellite is not an acceptable option)
+ An available power outlet (110 VAC)
+ A physical location that is within close proximity of a window for GPS signal acquisition and within AIRAVE coverage areas; for details, please visit sprint.com/airavecoverage
+Does the AIRAVE work with satellite broadband?
+The AIRAVE does not work with satellite broadband service because of too much jitter and delay, and the inability of some satellite broadband services to support IPSec.
+What happens if I have a power or Internet service provider outage?
+Your AIRAVE will not work during a power outage or ISP outage. In the event of an outage, your wireless phone will automatically try to obtain service directly from the Sprint network if coverage is available.
+What is the recommended broadband bandwidth for the AIRAVE?
+Individual bandwidth needs vary per customer. Sprint recommends a minimum of 800 Kbps (both upstream and downstream) for voice services and 3 Mbps downstream and 1.8 Mbps upstream for data services. The following table shows recommended bandwidth by usage type:
+
+Does the AIRAVE work in basements?
+For optimal coverage, the AIRAVE should be centrally located at an elevated position within your home or office. However, the AIRAVE will operate anywhere within your location provided that broadband Internet access is available and that the unit is within close proximity of a window for GPS signal acquisition. In the instance that a GPS signal cannot be obtained, an external 30-foot GPS antenna is included that can be situated near a window.
+How should I connect the AIRAVE to my home network?
+To ensure the best voice and data quality, connect your AIRAVE directly to your broadband modem or other broadband connection device. If you have additional equipment, such as a computer or wireless router, it should be connected through one of the two LAN ports on the back of the AIRAVE. For more information on installation, refer to the Technical and Troubleshooting Guide or User Guide on the sprint.com/airave website.
+How do I know that my AIRAVE is operating correctly?
+The LEDs on the front of the AIRAVE indicate how the device is operating. Under normal circumstances, the broadband, GPS, network and mobile LEDs will be solid green. For more information on LED operation or troubleshooting, refer to the Technical and Troubleshooting Guide.
+Can I use my high-speed modem to access the Internet and talk on the phone at the same time?
+Yes, you can use your high-speed Internet connection while using the AIRAVE. Use of your modem will not compromise the ability to make or receive calls on your wireless handset.
+Why does the AIRAVE require Global Positioning System (GPS) technology?
+The AIRAVE uses GPS for network synchronization and 911 device location information.
+Can customers call 911 with my AIRAVE service?
+Yes, 911 service works with the AIRAVE. However, 911 service will not be available during a power outage, an ISP failure or software device updates, and it may be limited because of some public safety answering points not supporting location-based E911 technology. Always be prepared to report your location to the 911 operator when placing an emergency call. Mobile phones operate using radio signals, which cannot guarantee connection in all conditions.
+Do wireless calls initiated on the AIRAVE continue once the user leaves the AIRAVE coverage area?
+Calls that originate on the AIRAVE will automatically try to transfer to the Sprint network if a strong signal is available. Transfer is not guaranteed depending on network availability, signal strength and interference.
+Does a wireless call that starts outside of the AIRAVE coverage area transfer to the AIRAVE when the user enters the coverage area?
+No. Calls that are initiated on the Sprint network will continue there, even though you may be within the AIRAVE coverage area.
+Is the AIRAVE device portable?
+The AIRAVE is available in specific areas within the United States. To check whether the area you are traveling to supports AIRAVE, visit sprint.com/airavecoverage. Note: Your AIRAVE will not work if you take it into non-AIRAVE coverage areas.
+Does the AIRAVE work outside of the United States?
+No. The AIRAVE is supported only in the continental United States, Hawaii, Puerto Rico and the U.S. Virgin Islands. Alaska is not supported. Please refer to sprint.com/airavecoverage for location availability.
+Do specific ports need to be enabled on the customers router for the AIRAVE to work?
+Installation of the AIRAVE should be simple plug and play. AIRAVE uses standard ports to connect to the Sprint network via the Internet. If your AIRAVE cannot connect to the Sprint network because of a unique network configuration, you may need to open the following UDP ports on your switch, router or firewall that the AIRAVE access point is connected to: 53, 67, 68, 500 and 4500. Contact your broadband Internet provider, router manufacturer or network administrator for detailed instructions on how to open ports on your equipment.
+Does the AIRAVE support dynamic and static IP addressing?
+Yes, the AIRAVE can support dynamic and static IP addressing. For instructions on how to select and configure static IP, please refer to the AIRAVE User Guide.
+Can we use multiple AIRAVE devices within the same area (e.g. same strip mall, apartment or office building)?
+Multiple AIRAVE devices can be deployed in the same general area (apartment complexes, strip malls etc.) without issue. In this scenario, the AIRAVEs will not interfere with one another, but they will not work together. For example, an active call will not transfer from one AIRAVE to the other. Therefore, multiple AIRAVEs should not be in close proximity or used as a single solution to address large buildings.
+Are calls and data usage secure while using the AIRAVE?
+Wireless traffic between the mobile device and the AIRAVE uses CDMA encoding, as is the case on the Sprint network. Traffic that is routed over the Internet, between the AIRAVE device and Sprints core network, uses IPSec with 3DES encryption.
+Does the AIRAVE use licensed or unlicensed spectrum?
+For wireless traffic, the AIRAVE uses Sprints licensed 1900 MHz CDMA spectrum, providing better performance, less interference and better in-building RF penetration compared with other solutions that use unlicensed Wi-Fi spectrum and higher frequencies.
+Does the optional AIRAVE unlimited voice plan include incoming and outgoing calls?
+Yes, all domestic outgoing and any incoming voice calls that are made on the AIRAVE are included in the optional AIRAVE unlimited voice plan. Data use is not included as part of this optional unlimited plan, but you will still benefit from the enhanced coverage and performance. Sprint standard pricing and service restrictions apply.
+Does the unlimited voice plan include international calling?
+International calls are not included as part of the AIRAVE unlimited voice plan but can be placed at standard international calling rates. Sprint standard pricing and service restrictions apply.
+How many minutes are included with the AIRAVE?
+No minutes are included. The AIRAVE uses whatever minutes are in your wireless plan. In most cases, that is unlimited.
+Are there any safety concerns when using the AIRAVE?
+The AIRAVE meets all applicable FCC standards and has a maximum RF power output of 10 mW or 10 dBm. In comparison, a Linksys WRT54G Wi-Fi router has an RF power output of 63.1 mW or 18 dBm.
+Can other Sprint customers use the AIRAVE?
+All Sprint customers with a Sprint mobile device can use the AIRAVE and benefit from the enhanced coverage as long as you have not restricted the AIRAVE.
+Can customers limit access to their AIRAVE?
+Yes, you can limit access to your AIRAVE device by creating a list of up to 50 approved Sprint phone numbers (a.k.a. Whitelist). You can create your list on sprint.com by logging into your Sprint account and selecting I want to update my AIRAVE within the My Device and Media tab. You also may call AIRAVE Customer Support at 866-556-7310. Once a change is made to the Whitelist, a reboot is needed for the changes to go into effect on the AIRAVE device.
+Under what circumstances should customers restrict their AIRAVE?
+Although you can limit access to your AIRAVE, restriction would be needed only in the rare circumstance that other Sprint users are taking up capacity on your device. Because in most cases a user would have to be inside your home or office to acquire AIRAVE capacity, restricting the device could mean restricting any guests or colleagues that are within your home or office.
+Does restricting the AIRAVE provide additional security?
+No, restricting your AIRAVE does not provide additional security. Whether in open or restricted mode, security is provided via standard CDMA encoding for the portion of the traffic between your handsets and the AIRAVE, and IPSec/3DES encryption for the portion of the traffic that is routed over your broadband Internet connection (between the AIRAVE and Sprints core network).
+Is there a phone number or website to get more information about the AIRAVE?
+Yes. You can visit sprint.com/airave for more information about the product functionality and availability, or call Sprint Customer Service at 888-211-4727.
+How can customers receive product support?
+Product support and documentation are available online or through Sprint Customer Service:
+AIRAVE website: sprint.com/airave
+AIRAVE Customer Support: 866-556-7310, 5 a.m. to 11 p.m. CT Monday through Sunday
+How are returns handled?
+Returns are handled by contacting Sprint Customer Service and requesting a return kit.",general,,
+473,no_device,[],[],[],excercise option,"monthly installment, early upgrade option",FAQs about monthly installments,How do I exercise my Early Upgrade option?,"Early upgrade requires active add-on thru time of upgrade with minimum of 12 consecutive payments of both the add-on and an installment agreement for phones, new phone Installment Agreement, account in good standing, and give back of current eligible device in good & functional condition. After upgrade, remaining unbilled installment or lease payments for giveback device are waived. A device upgrade does not guarantee customer can retain current plan.
+Customers who exercise their Early Upgrade option can exchange their device for a different device within 14 days with our Sprint Satisfaction Guarantee but cannot return the device once the previous installment billing agreement has been canceled. For more details about Sprint's policy, visit sprint.com/returns.",general,,
+1388,no_device,"['account', 'bill']","['bill', 'account']",[],"view bill, biew bill details","bill details, My sprint businees, my sprint bussiness accout",View bill details for My Sprint Business accounts,View bill details for My Sprint Business accounts,"Quickly search and view up to 24 months of your past bills with usage and call details online at Sprint.com.
+To view bill details, you must have a valid sprint.com account and have an account owner or account authorized status. Read more about the different levels of profile access on sprint.com.
+1. Sign in to sprint.com with your username and password.
+2. Click See my bill.
+Note: If you do not see the Your Bill section, you do dot have an account owner profile. You can request access from the person who set up the account, or if you are the only profile on your account, enter your billing ZIP code and account PIN on the My Preferences page to create an account owner profile.
+
+3. In the I want to... section, select See bill history.
+
+4. On the Bill History page, select View Online or Download PDF for the date to be viewed.
+Note: Bills are available in PDF format only if the billing cycle is 90 days ago or older. PDF format will contain the call details without additional action needed.
+
+5.If viewing online Select For Call Details Click Here.
+
+6. Select the ptn you want to see details about. You are now on the summary screen. Click on Cellular Services Call Detail.
+The Call Details screen is displayed. Type of usage can be toggled from Voice Call to Roaming. Select another phone on the account to view the details for that line. There is a legend explaining the rate type.",general,,
+280,samsung_galaxi_s7,"['hardware', 'software']","['battery', 'internet&network']","['hotspot', 'wifi']",,"battery life, wifi hotspot, mobile wifi hotspot",FAQs related to Wi-Fi hotspots on your Samsung Galaxy S7,Does using my Samsung Galaxy S7 as a mobile Wi-Fi hotspot drain my battery?,"Using your Samsung Galaxy S7 as a personal and portable Wi-Fi hotspot can increase battery consumption.
+You can also take steps to conserve your battery.
+Conserve battery life.",device,,
+1103,no_device,[],[],[], pick up items,"buy online, pick up in stall, pick up location","FAQs about Buy Online, Pick Up in Store",Where can I pick up my items?,"That's up to you. During the checkout process, you'll select a participating Sprint store based on the address you provide. Want to pick it up at the store near your house? Go for it. Want to grab it on your way home from work? Select the store near your office. Are you going to be running errands? Check ""shop for cell phone"" off your list by buying it online first, and picking it up in the shopping center you'll be visiting later.",general,,
+456,appl_iphon_4_8gb,['software'],['contact'],[],recover contact,phone contact,Recover contacts on your Apple iPhone 4,Recover contacts on your Apple iPhone 4,"Steps to recover your saved contacts 
+   Note: You can recover your contacts only if you've previously backed them up. 
+    
+     Display options Be sure all of your contacts are visible. 
+      
+      From the home screen, tap Settings. 
+      Scroll to and tap Mail, Contacts, Calendars. 
+      Under Accounts, tap the preferred account. 
+      Next to Contacts, slide the toggle switch to ON. 
+      Repeat this process for all of the preferred accounts. 
+      You can now see all of your contacts. 
+       
+     iCloud If your contacts were synced with iCloud, you can sign into iCloud and recover them. 
+      
+      From the home screen, tap Settings. 
+      Scroll to and tap iCloud. 
+      Tap Apple ID and enter your Apple ID. 
+      Tap Password and enter your Apple ID password. 
+      Tap Sign In. 
+       
+       If prompted to merge local contacts with iCloud, tap Merge. 
+       If prompted to Allow iCloud to Use the Location of Your iPhone, tap the preferred option. 
+       
+      Be sure that Contacts is turned ON. 
+      You've now signed in to your iCloud account and your contacts display. 
+       
+     Google If you've saved your contacts to your Google account, you can restore them to your Apple iPhone 4. 
+      
+      From the home screen, tap Settings. 
+      Scroll to and tap Mail, Contacts, Calendars. 
+      Tap Add Account. 
+      Tap Google. 
+      Enter your name, email address, and password. 
+      Tap Next. 
+      Ensure Contacts is turn ON. 
+      Tap Save. 
+      You've now added the Google account and your Gmail contacts display. 
+       
+     Bluetooth Some Bluetooth-enabled devices have Bluetooth file transfer capabilities. If you stored your contacts on another Bluetooth-enabled device, you can recover your contacts. 
+      
+      Be sure you have Bluetooth enabled on the other device and it's ready to be paired. 
+      From the Apple iPhone 4 home screen, tap Settings. 
+      Tap Bluetooth. 
+      Tap the Bluetooth slider to ON if it isn't already selected. 
+      Your device searches for available Bluetooth devices within range. Tap the name of the other device. 
+      If a Bluetooth pairing request displays, verify the passkeys match and tap Pair. 
+      After you've paired the devices, begin the transfer of contacts from the other device. 
+      After the transfer is complete, open the file on your Apple iPhone 4 and follow the prompts to load your contacts into your contact list. 
+      Pair with a Bluetooth device.",device,,
+982,no_device,['software'],['internet&network'],['network'],improve network experience,"My print mobile, sprint zone, network experience ",Improve your network experience,How could My Sprint Mobile (formerly Sprint Zone) improve my network experience?,"Go to My Sprint Mobile (formerly Sprint Zone) on your Sprint phone and touch Network . There you can findseveral choices to improve your experience, includingreporting a network issue.
+
+Select your device to access specific advice and support articles that are tailored to help you make the most out of the Sprint network.
+",general,,
+1956,samsung_galaxi_s7,"['troubleshoot', 'software']",['calls'],['call'],"troubleshoot phone, troubleshoot calls","issue related to calls, making and recieving calls, special edition",Troubleshoot issues related to making and receiving calls on your Samsung Galaxy S7 Special Edition,Troubleshoot issues related to making and receiving calls on your Samsung Galaxy S7 Special Edition,"This article helps troubleshoot making or receiving calls on your Samsung Galaxy S7 Special Edition 
+  You may have issues with calls if you have: 
+   
+   A low signal strength 
+   Trouble making or receiving calls 
+   Frequently dropped calls 
+   
+  These steps help identify and resolve the underlying cause. After completing each step, test to see if the issue is fixed. If not, continue to the next step. 
+   
+    Verify airplane mode is turned off.  
+     
+     From the home screen, tap Apps. 
+     Tap Settings. 
+     Tap Airplane mode. 
+     Tap the Airplane mode switch to Off if needed. 
+      
+    Reset the network settings.  Resetting the network settings reconnects your phone to the Sprint network and does not erase any of your content or data. 
+     
+     From the home screen, tap Phone. 
+     Enter ##72786#. Note: The Final # will not display.   
+     Tap YES. 
+     The phone will restart and Hands Free Activation will begin. 
+      
+    Verify if coverage is available at your current location.  If your Samsung Galaxy S7 Special Edition has low signal strength, see if your location is within Sprint voice coverage on the Sprint coverage map.  
+    Perform a soft reset.  A soft reset reconnects your Samsung Galaxy S7 Special Edition to the Sprint network. 
+     
+     Press and hold the Power and Volume down keys at the same time. 
+     Release both keys as soon as the device restarts. 
+      
+    Do you know if other Sprint customers are experiencing the same issue in the same location?  
+     
+     If yes or you don't know: Please contact Sprint Customer Care for help. 
+     If no: Please find the nearest Sprint Repair center and schedule an appointment so a Sprint technician can further diagnose the issue. 
+      
+   
+  Note: To optimize device performance, be sure your Samsung Galaxy S7 Special Edition is running the most recent device software. Check for software updates.  
+  If you're still having issues, please contact Sprint Customer Care for more help.",device,,
+1740,no_device,[],[],[],"enable content filter, disable content filter","parental controls, content filter",FAQs about parental controls using content filters,Who can enable/disable the content filter?,Only the account owner (or designee) can change the content filter setting for each device on the account. Users who are not the account owner or do not have delegated permission from the account owner cannot change the setting.,general,,
+675,no_device,['service'],"['plan', 'eligible']",[],,"family plan, sprint family plan, eligibility of plan, changes to sprint family plan",Learn about changes to the Sprint Framily Plan,Who is eligible for the Framily plan?,"Only existing Sprint customers on an account that has a Framily Plan can be added to the group assuming the group has less than 10 lines.
+I am a current Sprint customer and want to add a new line on Sprint Framily.
+You may still add a line to an existing Framily group that has not reached the 10 line maximum. Customers can add new phone lines and purchase a new device with installment billing, with non-discounted phone pricing, or bring their own Sprint-certified device; by visiting a Sprint retail store or calling customer care.
+I am a current Sprint customer and want to change my current plan to Sprint Framily Plan. I am upgrade eligible or am in an active Sprint One Up installment billing agreement.
+Sprint Framily is only available for a customer joining an existing Framily if they are on the same account. Customers who are upgrade eligible are eligible to join an existing Sprint Framily Plan if they are on the same account as the Framily ID. Customers in an active Sprint One Up SM installment billing agreement established prior to 1/10/14 are eligible to join an existing Sprint Framily Plan. Here are some additional things to keep in mind: Customers who move to the Sprint Framily Plan cannot carry over the monthly $15 installment billed discount on Unlimited, My Way or My All-in. The One Up customer will maintain the annual upgrade benefit afforded to them under the program (at no additional charge per month) until the end of their current installment billing agreement provided they make their 12 consecutive Installment Agreement payments on time. When the customer elects to take advantage of the annual upgrade, the customer must enter into a new Installment Agreement and giveback current phone under an Installment Agreement. If they would like to keep the annual upgrade option, the customer will need to purchase the $20/month per line unlimited data with annual upgrades buy-up and make 12 consecutive payments to qualify for the next annual upgrade benefit. Customers can join a Framily group on the customer's existing account that has not reached the 10 line maximum. The line cannot join with groups outside of the customers existing account. Go to a Sprint store to change your plan.
+I am a current Sprint customer that purchased a discounted phone with a term commitment, am not upgrade eligible and want to change my current plan to Sprint Framily.
+Sprint Framily is only available to a customer joining an existing Framily Plan on the same account. Customers who join an existing Framily plan can change. However, they will pay an additional $15/month per line for the Sprint Framily Plan until the line is upgrade eligible or after 12 consecutive months on the $20/month per line Unlimited Data with annual upgrades buy up, whichever comes first. The charge will be billed as a separate line item called the Framily Service Charge. Customers can join a Framily group on the customer's existing account that has not reached the 10 line maximum. The line cannot join with groups outside of the customer's existing account. Go to a Sprint store to change your plan.",general,,
+360,samsung_galaxi_s7,['hardware'],['battery'],[],conserve battery life,"battery life, special editionl, ",FAQs related to the battery on your Samsung Galaxy S7 Special Edition,How can I conserve my Samsung Galaxy S7 Special Edition battery life?,"You can lower screen timeout and brightness, turn off idle radios and apps, use Wi-Fi whenever available, turn off automatic application updates, and limit your email updates and application notifications.
+Conserve battery life.",device,,
+327,no_device,[],[],[],"excercise option, excersice annual upgrade option","Sprint one up, annual upgrade option, annual upgrade",Learn more about Sprint One Up,I am enrolled in Sprint One UpSM. How do I exercise my annual upgrade option?,"After 12 consecutive installment payments, customers enrolled in Sprint One Up are eligible to give back their current smartphone (see Sprint Giveback Program Terms) and upgrade to a new smartphone by entering into a new Installment Agreement. The smartphone the customer will give back after the 12 consecutive installment payments has to be the same or equivalent model that was subject to the original installment.",general,,
+35,no_device,"['device', 'software']",['internet&network'],"['data', 'hotspot', 'internet']","share internet connection, connect hotspot","data connectivity, Netgear zing mobile hotspot, internet connection",FAQs about the data connectivity of your Netgear Zing Mobile Hotspot,Can I share the Internet connection with other devices?,Your Netgear Zing Hotspot supports up to 10 wireless connections and 1 USB connection.,general,,
+954,no_device,"['device', 'service', 'hardware']","['phone', 'camera']",['phone'],,"sprint prepaied phone, unlocking policy",Sprint Prepaid phone unlocking policy and FAQs,What is Sprint Prepaid's device unlocking policy?,You can find Sprint Prepaid's device unlocking policy at sprint.com/prepaidunlock.,general,,
+133,samsung_galaxi_s7,['hardware'],['battery'],[],conserve battery life,"battery life, special editionl, ",Conserve battery life - Samsung Galaxy S7 Special Edition,Conserve battery life - Samsung Galaxy S7 Special Edition,"If the device is experiencing a short battery life, disabling some features and modifying settings may help.
+
+	The display uses most of your battery power. To adjust your display settings to use less power, from the home screen, swipe down the Status bar.
+
+	Tap the Settings icon.
+
+	Scroll to and tap Display.
+
+	Tap and drag the Brightness slider to the lowest comfortable brightness level.
+
+	Note: To allow the device to automatically adjust the screen brightness, tap to check Auto.
+
+	Tap Screen timeout.
+
+	Tap the lowest comfortable Screen timeout setting.
+
+	Tap Always On Display.
+
+	Tap the switch to Off to disable Always On Display.
+
+	Tap the Back key twice to return to Settings.
+
+	Using a live wallpaper can drain the battery faster.
+
+	Scroll to and tap Wallpaper.
+
+	Ensure that the Wallpaper motion effect switch is disabled, then tap the preferred wallpaper image and tap SET AS WALLPAPER.
+
+	Note: To change the wallpaper for the Lock screen, tap Home screen, then tap Lock screen.
+
+	Swipe down the Status bar.
+
+	Wi-Fi is a faster, lower power connection that can extend battery life by as much as 50%. Be sure that the device is connected to Wi-Fi whenever possible
+
+	However, leaving Bluetooth or GPS on when not actively in use can drain the battery faster.
+
+	Tap to turn off Bluetooth and Location.
+
+	When finished, press the Home key.
+
+	Note: You may need to swipe the quick settings bar to make some options available. The Quick Setting icons are Grey when turned off.
+
+	Some applications can run in the background and use extra battery life.
+
+	Tap the Recent Apps key.
+
+	Swipe an application to the side to close it, or tap the Close icon.
+
+	To close all applications, tap CLOSE ALL.
+
+	Note: Most applications do not use battery power when running in the background, and constantly closing all applications can make the device use more battery power.
+
+	Setting the device to sync less information can improve battery life.
+
+	From the home screen, swipe down the Status bar.
+
+	Tap the Settings icon.
+
+	Scroll to and tap Accounts.
+
+	Tap an account type.
+
+	Note: If prompted, tap to select the account name.
+
+	Tap to disable any unnecessary sync options.
+
+	When finished, tap the Back key twice to return to Settings.
+
+	Note: Repeat as needed for all accounts on the device.
+
+	Turning off vibration can improve battery life.
+
+	From the Settings screen, scroll to and tap Sounds and vibration.
+
+	Scroll to and tap the Vibrate while ringing, Vibration feedback and Keyboard vibration switches to disable them.
+
+	When finished, tap the Back key to return to Settings.
+
+	Scroll to and tap Battery.
+
+	Your device has two power saving modes:
+
+	
+		Power saving mode: Limits performance and disables background synchronization (emails, messages, and some notifications may not work)
+	
+		Ultra power saving mode: Drastically changes the interface and functionality, disables most applications and connectivity (only recommended for advanced users).
+
+
+	To enable one of the power saving modes, tap the mode, then tap the switch to On.
+
+	When finished, or to skip this step, press the Home key.
+
+	Charging the device on a regular basis will maximize the battery life.
+
+	The charger/connectivity port is located on the bottom of the device.
+
+	Plug the charger into the power socket and then connect it to the device.
+
+	The device is now configured to conserve battery life.",device,,
+67,samsung_galaxi_s7,['software'],"['calls', 'internet&network']","['wifi calling', 'wifi', 'network', 'call']","make wifi calls, receive wifi calls","wifi calls, public wifi network",FAQs about Wi-Fi Calling,Can I make and receive Wi-Fi calls over a public Wi-Fi network?,"Many public Wi-Fi networks allow Wi-Fi calling, but some networks may block Wi-Fi calling. If you can't make or receive Wi-Fi calls when connected to a network, contact the network provider for more information.
+Some public Wi-Fi networks require extra steps to connect to the network. Make sure your device is connected to the public Wi-Fi network. If you are still unable to place calls, check your web browser for additional steps.",device,,
+167,no_device,[],[],[],"cancel order, change order status","order status, buy online, pick up in stall","FAQs about Buy Online, Pick Up in Store",Can I cancel my order?,You can cancel your order any time by calling Sprint Order Support at 866-789-8292. Please have your order confirmation number ready when you call.,general,,
+671,no_device,['troubleshoot'],[],[],"troubleshoot phone, troubleshoot device","slow device, slow phone, phone freezes, device freezes, device turns off unexpectedly","Troubleshoot when your Nexus 6 slows, freezes, or turns off unexpectedly","Troubleshoot when your Nexus 6 slows, freezes, or turns off unexpectedly","This article helps troubleshoot your Nexus 6 slowing, freezing, or turning off unexpectedly
+You may have performance issues if your Nexus 6:
+Performs slowly Freezes Turns off or unexpectedly restarts Displays error messages Is unable to install or update applications
+Try each of these steps to see if it helps improve your phone's performance.
+Perform a soft reset.
+A soft reset restarts your phone and does not erase any of your content or data.
+Press and hold the Power key until the phone turns off.
+Determine if your phone has low memory.
+From the home screen, tap the All Apps icon. Scroll to and tap Settings . Tap Storage & USB . Used storage is now displayed. If your phone has low memory, troubleshoot low memory issues .
+Clear the application cache.
+Clear the application cache on your applications to free up space and improve performance. Be sure you clear only the application cache and not the application data . When you clear the application data , it removes your personal settings and info such as login information and high scores. Clearing the application cache doesn't remove your personal settings or information.
+From the home screen, tap the All Apps icon. Scroll to and tap Settings . Scroll to and tap Apps . Tap an application. Tap Storage . Tap CLEAR CACHE .
+Close background applications.
+Some apps continue to run in the background after you exit them. Sprint recommends that you close background applications when you're not using them.
+Verify that your Nexus 6 is running the most recent software.
+There may be a software update that improves battery life on your phone. Check for software updates.
+If you're still having issues, try the Sprint Community pages or make an appointment at a convenient Sprint Repair center.",general,,
+367,no_device,[],[],[],make returns,"order returns, buy online, pick up in store","FAQs about Buy Online, Pick Up in Store",Can I make returns?,Returns work the same as if you had bought the device in a store. You can learn all about our return policy here.,general,,
+1546,no_device,['software'],['internet&network'],['network'],"improve network experience, check coverage area","network experience, coverage area, network coverage ",Improve your network experience,How do I check on my coverage area?,"See our coverage map, where you can select a device and enter your address for personalized details.",general,,
+625,samsung_galaxi_s7,['software'],['internet&network'],['bluetooth'],pair with bluetooth,bluetooth,Pair with Bluetooth - Samsung Galaxy S7,Pair with Bluetooth - Samsung Galaxy S7,"From the home screen, swipe down the Status bar.
+
+	Tap the Settings icon.
+
+	Tap Bluetooth.
+
+	Tap the switch to turn Bluetooth ON.
+
+	Note: If Bluetooth is already enabled, skip this step.
+
+	Ensure the Bluetooth device is on and set to discoverable or pairing mode.
+
+	The phone will search for available Bluetooth devices in range automatically. Once the search is complete, tap the Bluetooth device name.
+
+	Note: If the device is not found, tap SCAN to perform another search.
+
+	Refer to the Bluetooth device's user manual for specific pairing requirements.
+
+	If a Bluetooth pairing request appears, verify the passkey for both devices is the same and tap OK.
+
+	Note: The default passkey for most Bluetooth devices is 0000 or 1234. Other devices may have other requirements. Refer to the Bluetooth device's user manual for specific instructions.
+
+	Check both the phone and the Bluetooth device for any prompts.
+
+	The Bluetooth device is paired.
+
+	Note: To unpair a device, tap the Settings icon next to the device name, then tap Unpair.",device,,
+1112,samsung_galaxi_s7,"['bill', 'software']","['cost', 'internet&network']","['hotspot', 'wifi']",use wifi hotspot,"wifi hotspot, cost of mobile wifi hotspot",FAQs related to Wi-Fi hotspots on your Samsung Galaxy S7,Does it cost more to use my Samsung Galaxy S7 as a mobile Wi-Fi hotspot?,Yes. You can add the mobile Wi-Fi hotspot feature to your Samsung Galaxy S7. The cost depends on the add-on you choose.,device,,
+429,samsung_galaxi_s7,"['device', 'hardware']",['activate '],[],"activate phone, activate devcie","phone activation , device activation",Activate your device - Samsung Galaxy S7,Activate your device - Samsung Galaxy S7,"Turn the device on by pressing the Power/Lock key.
+
+	Note: The device can complete all Hands Free Activation steps with no user interaction.
+
+	If the Hands Free Activation fails to activate successfully, up to 5 additional activation attempts will be offered. If all attempts to activate fail, alternate activation methods will be necessary.
+
+	It is also necessary to have Sprint network coverage. To verify Sprint Coverage, visit the Sprint website at coverage.sprint.com.
+
+	Swipe the screen to unlock the device.
+
+	The Hands Free Activation process will begin automatically.
+
+	Once the device is activated, tap OK.
+
+	The device will update the PRL.
+
+	When finished, tap OK.
+
+	The device will check for Firmware Updates.
+
+	If an update is available, follow the on-screen prompts to install the update. Otherwise, tap OK.
+
+	If prompted, review the Attention message and tap OK.
+
+	The device is now activated.
+
+	Note: If the Hands Free Activation is unsuccessful, complete the Initial Sign In and First Use tutorial and then complete the Update the Data Profile tutorial.",device,,
+251,no_device,['troubleshoot'],[],[],"troubleshoot phone, troubleshoot device","slow device, slow phone, phone freezes, device freezes, device turns off unexpectedly","Troubleshoot when your Apple iPhone 5c slows, freezes, or turns off unexpectedly","Troubleshoot when your Apple iPhone 5c slows, freezes, or turns off unexpectedly","This article helps troubleshoot your Apple iPhone 5c slowing, freezing, or turning off unexpectedly.
+You may have performance issues if your Apple iPhone 5c:
+Performs slowly Freezes Turns off or unexpectedly restarts Displays error messages Is unable to install or update applications
+Try each of these steps to see if it helps improve your phone's performance.
+Perform a soft reset.
+A soft reset restarts your phone and does not erase any of your content or data.
+Press and hold the Power key and Home key. From the home screen, press and hold the Power key and the Home key. Release the Power key and the Home key when the Apple logo appears. Your Apple iPhone restarts.
+Charge your Apple iPhone 5c.
+If your iPhone is low on battery, it will attempt to extend the battery life by slowing performance down. If an application or background process requires higher performance, it may make the phone appear freeze or slowdown. Charging your device will provide enough power for the phone to function normally.
+Charge your device.
+Determine if your phone has low memory.
+From the home screen, tap Settings . Scroll to and tap General . Tap Usage . If your phone has low memory, troubleshoot low memory issues .
+Close background applications.
+Some apps continue to run in the background after you exit them. Sprint recommends that you close background applications when you're not using them.
+Perform a DFU mode update.
+A DFU mode update uses a special phone state that allows your Apple iPhone 5cto communicate with iTunes without your iPhone fully turning on. DFU mode is used to update or restore iOS
+Note: While performing an update or reinstalling using DFU mode, iTunes will try to preserve your settings and content. If Restore is selected, all settings and content will be erased.
+Connect your iPhone to a computer with iTunes installed . While your iPhone is connected, press and hold both the Power and Home buttons. When and iTunes logo, arrow, and lightning cable appear on the screen, release both keys. An iTunes prompt will appear to either Restore or Update. Choose Update .
+Note: Restore should be used as a last resort. Choosing Restore will erase all content and settings.
+If updating takes longer that 15 minutes, your iPhone will leave recovery mode. If your iPhone leaves recovery mode, repeat steps 2 thru 4.
+Verify that your Apple iPhone 5c is running the most recent software.
+There may be a software update that resolves the issue on your phone.
+Check for software updates from your iPhone. Update software using iTunes .
+If you're still having issues, try the Sprint Community pages or make an appointment at a convenient Sprint Repair center.",general,,
+15,no_device,"['troubleshoot', 'software']",['internet&network'],['data'],troubleshoot data connectivity,"issue of data connectivity, issue location, issue impact range",Troubleshoot issues related to data connectivity and your Apple iPhone 6 Plus,Do you know if other Sprint customers are experiencing the same problem in the same location?,"If yes or you don't know: Please contact Sprint Customer Care for help. If no: Please find the convenient Sprint Repair center and schedule an appointment so a Sprint technician can further diagnose the issue.
+Temporary solution: Connect to a Wi-Fi network.
+You can connect to a Wi-Fi network as a temporary solution.
+Note: Most Wi-Fi networks have a range of less than 100 feet indoors and up to 300 feet outdoors. Objects between the router and your Apple iPhone 6 Plus may decrease the signal strength.
+Connecting to a Wi-Fi network may also improve battery life.
+Note: To optimize device performance, be sure your Apple iPhone 6 Plus is running the most recent device software. Check for software updates.
+If you're still having issues, please contact Sprint Customer Care for more help.",general,,
+387,no_device,['software'],"['setting', 'default_apps']","['music', 'setting']",,"sprint music plus, ringback tong libray, everying setting, day setting",Learn more about Sprint Music Plus,"In the ringback tone library, what are the ""Evening"" and ""Day"" settings for?","You may set a ringback tone to play only during ""Day"" hours or ""Evening"" hours. A ringback tone set for ""Day"" hours plays between 6 a.m. and 6 p.m. Eastern Time and a ringback tone set for ""Evening"" hours plays between 6 p.m. and 6 a.m. Eastern Time. If you leave either the ""Day"" or ""Evening"" options blank, no tone will play during the selected period.",general,,
+1290,no_device,[],[],[],,"hd voice, sprint hd voice",FAQs about HD Voice from Sprint,How does HD Voice work?,"HD Voice transmits and receives a wider octave range of the speaker's voice. This creates a richer, more natural sound during calls. At the same time, HD Voice actively detects background noise and minimizes its presence. This makes your voice and the voice on the other end of the call more defined, prominent and easier to understand.",general,,
+2143,appl_iphon_4_8gb,['software'],['message'],['text'],turn on speak auto-text,speak auto-text,Turn on Speak Auto-text - Apple iPhone 4,Turn on Speak Auto-text - Apple iPhone 4,"The Speak Auto-text function enables the iPhone to automatically speak auto-corrections and auto-capitalisations to the user as they type.
+
+	From the home screen, tap Settings.
+
+	Scroll to and tap General.
+
+	Tap Accessibility.
+
+	Tap the Speak Auto-text toggle to enable or disable the feature.
+
+	Speak Auto-text is now enabled.",device,,
+208,no_device,['software'],['default_apps'],['music'],,"sprint music plus, shuffle list, ringback tones",Learn more about Sprint Music Plus,What is the shuffle list for ringback tones?,"The shuffle list plays a random ringback tone to your callers from the tones you have purchased and added to the shuffle list. To add a ringback to your shuffle list, select ""Ringback Tones"" under ""Library"" from the main menu.
+",general,,
+530,no_device,"['account', 'software', 'service', 'hardware']","['passcode', 'setting', 'email', 'phone', 'calls', 'camera']","['setting', 'voicemail', 'phone']",reset voicemail passcode,"sprint voicemail, voicemail passcode",FAQs about Sprint voicemail,How do I reset my Sprint voicemail passcode from my phone?,"To reset your voicemail passcode: Dial *2 Select Account Information or Changes Follow instructions to reset your voicemail passcode. Note: Resetting your voicemail passcode is just a part of keeping your voicemail secure. For more information about keeping your voicemail secure, go to Keep your voicemail secure .",general,,
+294,samsung_galaxi_s7,[],[],[],"download app, install app",,Download and install an app - Samsung Galaxy S7,Download and install an app - Samsung Galaxy S7,"From the home screen, tap Play Store.
+
+	Note: If the shortcut is not available, tap Apps, then scroll to and tap Play Store.
+
+	Tap the preferred category.
+
+	Note: If prompted, read the welcome messages and tap GET STARTED.
+
+	Scroll to and tap an application.
+
+	Note: If preferred, swipe to select a sorting option.
+
+	Tap INSTALL.
+
+	Note: For apps that are not free, tap the purchase price and follow the prompts to select a payment option.
+
+	If prompted, review the application permissions, then tap ACCEPT.
+
+	If a New in Android 6.0 and higher prompt appears, tap CONTINUE.
+
+	The application is now installed.",device,,
+457,samsung_galaxi_s7,"['troubleshoot', 'software']","['calls', 'internet&network']","['wifi calling', 'wifi', 'call']","troubleshoot phone, troubleshoot wifi calling",wifi calling,Troubleshoot issues related to Wi-Fi calling on your Samsung Galaxy S7,Troubleshoot issues related to Wi-Fi calling on your Samsung Galaxy S7,"This article helps troubleshoot Wi-Fi calling issues on your Samsung Galaxy S7 
+   You may have Wi-Fi calling issues if you: 
+    
+    Cannot activate the Wi-Fi calling feature  
+    Cannot place calls while using Wi-Fi calling 
+    Hear a fast busy tone when placing a call  
+    Incoming calls show a different number than the actual caller  
+    
+   These steps help identify and resolve the underlying cause. After completing each step, test to see if the issue is fixed. If not, continue to the next step. 
+    
+     Verify you're connected to a Wi-Fi network. Connect to a Wi-Fi network  Note: Some public Wi-Fi networks require additional sign in steps before Wi-Fi calling can be used.  
+     Verify you've enabled and set up Wi-Fi calling. Activate Wi-Fi Calling.  
+     Perform a soft reset. A soft reset reconnects your Samsung Galaxy S7 to the Sprint network. 
+      
+      Press and hold the Power and Volume down keys at the same time. 
+      Release both keys as soon as the device restarts. 
+       
+    
+   Note: To optimize device performance, be sure your Samsung Galaxy S7 is running the most recent device software. Check for software updates. 
+   If you're still having issues, please try the Sprint Community pages or contact Sprint Customer Care for more help.",device,,
+599,no_device,"['service', 'hardware']","['phone', 'camera']",['phone'],unlock phone,internatioinal travel,How to unlock your phone for international travel,How to unlock your phone for international travel,Please review our unlocking policy for more information about unlocking your device for international travel and using a foreign carrier's SIM.,general,,
+995,appl_iphon_4_8gb,"['device', 'hardware']",['activate '],[],"activate device, activate phone",Pre owned as you go,Activate your device - Apple iPhone 4 8GB Certified Pre Owned As You Go,Activate your device - Apple iPhone 4 8GB Certified Pre Owned As You Go,"To turn the phone on, press and hold the Power key.
+
+	Slide the screen to the right to begin set up.
+
+	Tap the preferred language.
+
+	Tap the preferred country or region.
+
+	Tap the preferred Wi-Fi network.
+
+	Note:If there are no Wi-Fi networks available, tapConnect to iTunes.
+
+	If prompted, enter the selected Wi-Fi network's password, then tapJoin.
+
+	Tap the preferredLocation Servicesoption.
+
+	TapSet Up as New iPhone.
+
+	Note:TapRestore from iCloud BackuporRestore from iTunes Backupif restoring a previous iPhone's settings.
+
+	Tap Sign In with your Apple ID.
+
+	Note: If you do not have an Apple ID, tap Create a Free Apple ID and follow the prompts, or visit http://appleid.apple.com.
+
+	Enter the email address and password that is associated with your Apple ID, then tapNext.
+
+	Read the Terms and Conditions and tap Agree.
+
+	TapAgree.
+
+	Tap the preferrediCloudoption.
+
+	If prompted, tap the preferredFind My iPhoneoption.
+
+	Tap to enable or disable theiMessage and FaceTimeoptions, and then tapNext.
+
+	Tap the preferredDiagnosticsoption.
+
+	TapGet Started.
+
+	The iPhone is now ready for use",device,,
+1254,samsung_galaxi_s7,"['troubleshoot', 'software']",['internet&network'],['data'],"troubleshoot phone, troubleshoot data connectivity","data connectivity, issue with connectivity ",Troubleshoot issues related to data connectivity and your Samsung Galaxy S7,Troubleshoot issues related to data connectivity and your Samsung Galaxy S7,"This article helps you troubleshoot data connectivity issues on your Samsung Galaxy S7 
+  You may have data connectivity issues if you're unable to: 
+   
+   Connect to the Internet 
+   Browse websites 
+   Send or receive multimedia messages 
+   Load Internet content within applications 
+   Send or receive email 
+   
+  These steps help identify and resolve the underlying cause. After completing each step, test to see if the issue is fixed. If not, continue to the next step. 
+   
+    Verify mobile data is enabled.  
+     
+     From the home screen, tap Apps. 
+     Scroll to and tap Settings. 
+     Scroll to and tap Data usage. 
+     Ensure that the Mobile data switch is ON. 
+      
+    Update your Sprint data profile.  The data profile contains settings your phone needs to connect to the Sprint network. 
+     
+     Access Sprint Zone. 
+     Scroll to and tap Support. 
+     Tap Diagnostics. 
+     Tap Update profile. 
+     After the profile update is complete, tap OK. 
+      
+    Perform a soft reset.  A soft reset reconnects your Samsung Galaxy S7 to the Sprint network. 
+     
+     Press and hold the Power and Volume down keys at the same time. 
+     Release both keys as soon as the device restarts. 
+      
+    Do you know if other Sprint customers are experiencing the same problem in the same location?  
+     
+     If yes or you don't know: Please contact Sprint Customer Care for help. 
+     If no: Please find the nearest Sprint Repair center and schedule an appointment so a Sprint technician can further diagnose the issue. 
+      
+    Temporary solution: Connect to a Wi-Fi network.  You can connect to a Wi-Fi network as a temporary solution. Note: Most Wi-Fi networks have a range of less than 100 feet indoors and up to 300 feet outdoors. Objects between the router and your Samsung Galaxy S7 may decrease the signal strength.  Connecting to a Wi-Fi network may also improve battery life.  
+   
+  Note: To optimize device performance, be sure your Samsung Galaxy S7 is running the most recent device software. Check for software updates.  
+  If you're still having issues, please contact Sprint Customer Care for more help.",device,,
+1739,samsung_galaxi_s7,['software'],['calls'],['call'],make conference call,conference call,Make a conference call - Samsung Galaxy S7,Make a conference call - Samsung Galaxy S7,"While on a call, tap Add call.
+
+	To dial the second number manually, enter the 10-digit phone number and tap the Call button.
+
+	To dial a number from the contact list, tap CONTACTS.
+
+	Scroll to and tap the preferred contact.
+
+	Tap the preferred phone number.
+
+	After the second call connects, tap Merge.
+
+	The conference call is now initiated.",device,,
+849,no_device,['software'],['internet&network'],"['data', 'hotspot', 'internet']",,"data connectivity, issue with connectivity, Netgear fuse mobile hotspot, internet disconnecting",FAQs about the data connectivity of your NETGEAR Fuse Mobile Hotspot,Why is my NETGEAR Fuse Mobile Hotspot disconnecting from the Internet?,You may be using your device in an area with low or no coverage. You've been using your device for a long time. Your computer may be experiencing a temporary problem.,general,,
+1476,no_device,[],[],[],pick up order,"buy online, pick up in store, order pick up requirement","FAQs about Buy Online, Pick Up in Store",What do I need to bring to pick up my order?,"To pick up your order, you'll need the following:
+A valid picture ID (driver's license, etc.) The credit card used to place your order A copy of your confirmation email (printed or available on your phone).Your order confirmation will include the following: Full order details, showing device, purchase method (lease IB etc.) Whether it is a new activation or upgrade Your phone associated with the order, order number, method paid, lease/loan # where applicable, and customer information (name, account number etc.)
+Important: Only the person who made the order can pick up the order, so if your spouse, friend, parent or anyone other than you bought the device you're picking up, they have to be present in order to complete the transaction.
+It might seem inconvenient, but we do it this way to guarantee you get the device you want, not anyone else.",general,,
+114,no_device,['software'],"['gmail', 'contact']",[],"back up contact, restore concact",phone contact,FAQs related to using Gmail to backup and sync contacts with your Nexus 6P,How does my Nexus 6P back up and restore contacts with Gmail?,"If you set up a Google account on your phone, your Gmail contacts are automatically imported to your phone.
+After you've associated your Google account with your phone, anytime you add, import, or transfer a contact, you can choose where to save the contact. New contacts don't synchronize with your Google account unless you select Google.
+If you add contacts to your phone before setting up a Google account, your contacts don't synchronize with Gmail. They save as Phone Only contacts.
+Set up a Google account.",general,method: use gmail,
+2130,no_device,['software'],['internet&network'],['roaming'],sign up for sprint global roaming,sprint global roaming,FAQs about Sprint Global Roaming,How do I sign up for Sprint Global Roaming?,"You have Sprint Global Roaming enabled on your LTE/GSM capable smartphone, unless you have a different international roaming offer enabled. If you would like to learn more about your service or review other options available, you can visit sprint.com/sww or chat with a representative. You may also view options by logging into My Sprint.",general,,
+2044,no_device,[],[],[],"program phone, program device",,Program your Google Pixel XL,Program your Google Pixel XL,"Steps to activate your Google Pixel XL
+Symptoms:
+Phone is not active Unable to make or receive calls Unable to send or receive text messages
+Note: Before you try these steps, check the Sprint coverage map and verify that you are in an area with good coverage.
+Hands-free activation
+If this is the first time activating your phone, hands-free activation automatically runs in the background as you go through the initial sign-in process.
+Initial sign-in and first use
+Update the data profile
+If this is not the first time activating your phone or hands-free activation did not complete successfully, update the data profile.
+Update the data profile
+Reset network connection
+If the activation methods above did not work, reset your network connection.
+From the home screen, tap the Phone icon. Tap the Keypad icon. Dial *#*#72786#*#* . Tap OK . Your phone will restart. After it restarts and reconnects to the network, your phone automatically launches hands-free activation.
+If you are having trouble activating your Google Pixel XL, make an appointment at a convenient Sprint Store.",general,,
+476,no_device,"['device', 'service', 'hardware']","['phone', 'camera']",['phone'],"unlock phone, unlock device","unlocking policy, prepaid phone, sprint prepaid phone",Sprint Prepaid phone unlocking policy and FAQs,How can I unlock my device?,Eligible customers can request a domestic SIM unlock and/or request the associated MSL Code by contacting Sprint Prepaid Customer Care at 855-639-4644.,general,,
+1655,no_device,"['device', 'software']",['setting'],['setting'],"set content filter, set content filter for mobile broadband device","parental control, content filter, mobile broadband devices",FAQs about parental controls using content filters,Can the content filter be set for tablets and mobile broadband devices?,"Yes. The content filter can be set for phones, tablets and mobile broadband devices.",general,,
+2046,no_device,"['bill', 'software']","['usage', 'internet&network']",['data'],share data usage,data usage,Shared data usage,Shared data usage,"If you manage a business or personal account you have registered at sprint.com and you have a shared data plan, you can view your share data usage if there are fewer than 25 subscriptions on your account.
+To view any unbillled shared data usage for your account:
+Sign in to sprint.com with your username and password. On the My Account page, scroll to the devices section and click See details about all shared usage.
+The Shared Detailed usage page will display.
+To view usage for another device on the account, click the dropdown at the top right-hand side of the page, labeled See usage for another phone on this account and select the device. This will take you to the Detailed usage page.
+Note: If you are on the Detailed Usage page you will see a link in the Data/Other area for any shared usage category  See all shared usage. Select that to return to the Shared Detailed usage page.
+Even if you have more than 25 subscriptions on your account, you can still see the total shared usage for your shared group by looking at any of the subscriptions on the shared plan.  There will be a group line that shows how much everyone in the group has used followed by an individual line showing how much that subscription has used.",general,,
+1097,appl_iphon_4_8gb,['device'],[],[],"charge phone, charge device",pre owned as you go,Charge your device - Apple iPhone 4 8GB Certified Pre Owned As You Go,Charge your device - Apple iPhone 4 8GB Certified Pre Owned As You Go,"The Charger/Connectivity Port is located on the bottom of the handset.
+
+	Plug the charger into the power socket and then connect it to the handset.
+
+	The handset will start charging.",device,,
+497,no_device,['software'],['default_apps'],['music'],sign up for subscription,"sprint music plus, ringback tones, ringback tone subscription",Learn more about Sprint Music Plus,How do I sign up for a ringback tone subscription?,"There is an ""Info"" button next to each ringback tone in Sprint Music Plus. Select ""Info"" and it will guide you through the subscription process.
+",general,,
+898,no_device,"['hardware', 'software']","['sound', 'default_apps']","['rington', 'music']","download full track, download rington, download ringback tone","sprint music plus, full track and rington bundle",FAQs about Sprint Music Plus full track and ringtone bundles,"Do I use up a credit if I download a free full track, ringtone or ringback tone?","No. Free full tracks ringtones and ringback tones do not count against the credits you own. A free full track, ringtone or ringback tone would show up on the store displaying a $0.00 price.",general,,
+1281,no_device,"['service', 'software']","['service', 'default_apps']",['music'],"unsubscribe service, unsubscribe ringback service","sprint music plus, ringback service",Learn more about Sprint Music Plus,How do I unsubscribe from the ringback service?,"Select ""Settings,"" then ""Manage My Subscriptions"" and then ""Unsubscribe."" A confirmation screen will be displayed. You may also unsubscribe by calling Customer Care at *2 from your Sprint device.",general,,
+60,no_device,['device'],[],[],check status of claim,"device protection, status of claim, advanced protection pack claim, ",FAQs about device protection,How can I check the status of my Advanced Protection Pack claim?,"To check the status of your claim, simply visit http://www.phoneclaim.com/sprint and click Track status.",general,,
+1893,no_device,[],[],[],[],"buy online, pick up in store, definition","FAQs about Buy Online, Pick Up in Store",What is it?,"Buy online, pick up in store is just that  a service from Sprint that allows you to buy the device you want online at sprint.com and pick it up in a Sprint store of your choosing, usually in the same day and in as little as an hour.",general,,
+461,no_device,"['service', 'software']","['plan', 'internet&network']",['roaming'],,"roaming restriction, sprint family plan, changes to sprint family plan",Learn about changes to the Sprint Framily Plan,Are there roaming restrictions?,Yes. Off-network roaming is limited to (1) voice at 800 minutes or a majority of minutes and (2) data at 100MB or a majority of kilobytes.,general,,
+146,no_device,['software'],['internet&network'],"['hotspot', 'internet']",maximize internet speed,"netgear zing mobile hotspot, internet speed",FAQs about getting the most out of your Netgear Zing Mobile Hotspot,What can I do to maximize my Internet speed?,"Be sure that your hotspot has good signal strength. Minimize the number of obstructions (such as walls, doors, and metal surfaces) between your hotspot and connected devices. Disconnect any devices that you aren't using right now. The more devices that you connect to your hotspot, the slower the potential browsing speed.",general,,
+724,no_device,['troubleshoot'],[],[],"troubleshoot phone, trouble shoot device turn on",device doesn't turn on,Troubleshoot when your Nexus 5X doesn't turn on,Troubleshoot when your Nexus 5X doesn't turn on,"This article helps troubleshoot your Nexus 5X not turning on
+You may have this issue if your Nexus 5X:
+Doesn't turn on Starts to turn on but restarts or shuts down before it turns on completely
+Try each of these steps if your phone doesn't turn on.
+Verify that your Nexus 5X has a sufficient charge.
+Connect your original charger to your phone. After a few minutes, try to turn on your phone.
+Verify that your phone and charging port are not damaged.
+Carefully inspect your phone to be sure it's not overheating, swollen or damaged. Carefully inspect your phone's charging port and remove any debris.
+Caution: If your phone is damaged, do not complete the remaining steps in this guide. Make an appointment at a convenient Sprint Repair center.
+Verify that you are using a compatible charger.
+You risk severe damage to your phone if the charger isn't the same voltage, amps, and plug type as your original charger. You can purchase compatible chargers on sprint.com and at any Sprint Store.
+Attempt a forced restart of the phone.
+Note: If performed correctly, a forced restart will not erase any information from the phone.
+Press and hold the Power key for 10 seconds. If the phone starts to power on, release the Power key.
+If your Nexus 5X does turn on, verify that it is running the most recent software. Check for software updates.
+Attempt a hardware factory reset.
+Note: A hardware factory reset will erase ALL information on the phone! Any information that is not backed up online will be PERMANENTLY LOST.
+Perform a hardware factory reset.
+If you're still having issues, try the Sprint Community pages make an appointment at a convenient Sprint Repair center.",general,,
+763,appl_iphon_4_8gb,['hardware'],['TV'],[],"connect phone to TV, connect device to TV",,FAQs related to connecting your Apple iPhone 4 to a TV,How do I connect my Apple iPhone 4 to my TV?,"Connect your Apple iPhone 4 to the optional Apple Digital AV Adapter (sold separately by Apple). Connect one end of an HDMI (High-Definition Multimedia Interface) cable to the Apple Digital AV Adapter. Connect the other end of the HDMI cable to an available HDMI port on the TV. Change the TV input to the adapter input. The TV does not mirror the display, but displays photos, videos, applications, and more when selected on your Apple iPhone 4.",device,,
+945,no_device,['service'],['plan'],[],,"sprint family plan, changes to plan, sprint unlimited guarantee",Learn about changes to the Sprint Framily Plan,Is the Sprint Unlimited Guarantee included?,"Yes, the Unlimited Guarantee is also part of the Sprint Framily plan, therefore, you will maintain the Unlimited Guarantee on the unlimited talk, text and data features as long as you remain a customer in good standing. If you choose the 1GB or 3GB data option for a line, the Sprint Unlimited Guarantee applies only to unlimited talk and text.",general,,
+36,no_device,['software'],"['email', 'calls']",['voicemail'],,"sprint voicemail, expert model",FAQs about Sprint voicemail,What is expert mode in voicemail?,"Expert mode is a shortening of the voice prompts you hear at each level. Using the expert mode setting for your personal voicemail box helps you navigate through the voicemail system more quickly. To change your expert mode setting: Call Voicemail and enter your passcode if prompted When prompted, press the number given for Personal Options Press the number given for Expert Mode The system will give status of your Expert Mode setting (on or off) and tell you how to change it.",general,,
+1672,no_device,['software'],"['message', 'default_apps']",['picture'],"block picture messaging, block video messaging, allow picture messaging, allow video messaging","picture messaging, video messaging, my sprint",Block or allow picture and video messaging via My Sprint,Block or allow picture and video messaging via My Sprint,"You can control whether users on your account can send, receive and upload pictures and video. These controls do not restrict the ability to attach pictures to emails.
+To block pictures and videos, you must have a valid My Sprint account and be set up with an account owner profile. Account owners can block all phones associated with their account. If you are not an account owner and do not have permission to change settings on your account, you will see a message showing your current picture and video settings. Read more about the different levels of profile access on sprint.com.
+Block picture and video messaging services:
+Sign in to sprint.com with valid username and password Click the My Preferences tab Under Limits and Permissions , click Block pictures and videos Select the phone you wish to block - a green checkmark will appear showing that phone is selected Click Save to block picture and video messaging services If changes were saved successfully, you will see the following confirmation message: Thank you! We've saved your changes. You will see a Blocked icon next to the phone that has picture and video messaging blocked. Turn your phone off and back on for the new settings to take effect. These changes will take effect within 15 minutes.
+Allow picture and video messaging services:
+Sign in to sprint.com with valid username and password Click the My Preferences tab Under Limits and Permissions , select Block pictures and videos Select the phone you wish to unblock - a green checkmark will appear indicating the choice to unblock that phone Click Save If changes were saved successfully, you will see the following confirmation message: Thank you! We've saved your changes. Restrictions will be removed and you will be able to send and receive pictures on your phone. Turn your phone off and back on for the new settings to take effect. These changes will take effect within 15 minutes.
+Note: If you have more than 100 devices on your account, only the first 100 show in My Sprint. To change the rest, contact us by dialing *2 on your Sprint phone.",general,,
+894,no_device,['software'],['default_apps'],['music'],,"sprint music plus, ringback tones",Learn more about Sprint Music Plus,What are ringback tones?,"Ringback tones allow you to pick what callers hear while they wait for you to answer the phone. A monthly subscription is required to use ringback tones. Individual ringback tones need to be purchased and assigned after you have subscribed. You can assign the ringback tone to all callers or individual callers and even customize based on time of day. You can also create a ringback tone shuffle list, where selected tones will play randomly.
+",general,,
+937,no_device,"['hardware', 'software']","['equipment', 'default_apps']",['files'],"file claim, file insurance claim","equipment replacement program, insurance claim",File an Equipment Replacement Program insurance claim,File an Equipment Replacement Program insurance claim,"If your device is lost or stolen, contact us immediately at 1-888-211-4727 to
+suspend your service. Be sure to file your claim within 60 days of the loss. To file your claim or check your claim status online, go to www.phoneclaim.com/sprint . To file your claim or check your claim or shipping status by phone, call
+Asurion Customer Care at 1-800-584-3666. If your device has been damaged, we will send you shipping materials to return
+it. You are responsible for the non-refundable deductible for each approved claim.
+The amount of the deductible is determined by the model of your device. When your claim is approved, you will receive the same device as your original
+or a comparable device with similar quality and features. Replacement devices
+may be refurbished, reconditioned or different from your original device.
+For complete coverage details and contact information, see the Equipment Replacement Program Coverage Certificate.",general,,
+1140,appl_iphon_4_8gb,['troubleshoot'],[],[],"troubleshoot phone, troubleshoot device","slow device, slow phone, phone freezes, device freezes, device turns off unexpectedly","Troubleshoot when your Apple iPhone 4 slows, freezes, or turns off unexpectedly","Troubleshoot when your Apple iPhone 4 slows, freezes, or turns off unexpectedly","This article helps troubleshoot your Apple iPhone 4 slowing, freezing, or turning off unexpectedly. 
+   You may have performance issues if your Apple iPhone 4: 
+    
+    Performs slowly 
+    Freezes 
+    Turns off or unexpectedly restarts 
+    Displays error messages 
+    Is unable to install or update applications 
+    
+     
+   Try each of these steps to see if it helps improve your phone's performance. 
+    
+     Perform a soft reset.  A soft reset restarts your phone and does not erase any of your content or data. 
+      
+      From the home screen, press and hold the Power key and Home key. 
+      Release the keys when the Apple logo appears. 
+      You Apple iPhone 4 restarts. 
+       
+     Determine if your phone has low memory. 
+      
+      From the home screen, tap Settings. 
+      Tap General. 
+      Tap Usage.  
+      If your phone has low memory, troubleshoot low memory issues. 
+       
+     Close background applications. Some apps continue to run in the background after you exit them. Sprint recommends that you close background applications when you're not using them.  
+     Verify that your Apple iPhone 4 is running the most recent software. There may be a software update that improves battery life on your phone. Check for software updates.  
+    
+   If you're still having issues, try the Sprint Community pages or make an appointment at a convenient Sprint Repair center.",device,,
+235,no_device,"['bill', 'software']","['cost', 'internet&network']","['hotspot', 'wifi']",['use'],"wifit hotspot, mobile wifi hotspot",FAQs related to Wi-Fi hotspots and your Apple iPhone 6,Does it cost more to use my Apple iPhone 6 as a mobile Wi-Fi hotspot?,Yes. You can add the Sprint Mobile Wi-Fi Hotspot service to your Apple iPhone 6. The cost is based on the add-on you choose.,general,,
+631,no_device,['account'],['account'],[],"register account, register account online",online account,Register your account online at sprint.com,Register your account online at sprint.com,"Sprint.com gives you easy, secure, 24/7 access to information about your device and account management tools.
+It only takes a few minutes to register.
+What you'll need to get started:
+Account Owners will need to have the billing ZIP code and the account PIN or the answer to the account security question. If you forgot the PIN, we can send you a one-time passcode during registration. To register as a device user instead of an account owner, you'll need to have your device handy in order to receive a text message.
+Read more about the different levels of profile access on sprint.com.
+Sign up for access to sprint.com:
+Go to sprint.com . Click Sign in . Then click Create my profile . Enter your phone number. Next, Verify your identity . Complete one of the three options: Account Owners, Enter my Sprint PIN number - Enter your billing ZIP code and PIN to create an Account Owner profile. Account Owners, Answer my security question OR send me a retrieval code - Complete one of these: Answer your security question - Enter your billing ZIP code, last 4-digits of the account holder SSN and answer the security question. Retrieval code  Enter your billing ZIP code and last 4-digits of the account holder SSN. Once your account is verified, you will be allowed to register as an account owner. Device users, Someone else pays the bill, so I don't need to see billing info - Once your device is verified, you will be allowed to see your device information, plan information, minutes used and data usage. Next, create your username, password, and enter your email address. Then select Finish . Your email address will be used to notify you when changes are made to your profile or to retrieve your password if you forget it. We'll also use it to confirm your sign up for sprint.com. Congrats! You are done when you see the Success page. You may either: Click Sign in to My Sprint and directly access your online profile; or Retrieve the email we sent you. You don't have to do this now but it is required for second sign in.",general,,
+1806,samsung_galaxi_s7,['hardware'],['battery'],[],conserve battery life,battery life,Conserve battery life - Samsung Galaxy S7,Conserve battery life - Samsung Galaxy S7,"If the device is experiencing a short battery life, disabling some features and modifying settings may help.
+
+	The display uses most of your battery power. To adjust your display settings to use less power, from the home screen, swipe down the Status bar.
+
+	Tap the Settings icon.
+
+	Scroll to and tap Display.
+
+	Tap and drag the Brightness slider to the lowest comfortable brightness level.
+
+	Note: To allow the device to automatically adjust the screen brightness, tap to check Auto.
+
+	Tap Screen timeout.
+
+	Tap the lowest comfortable Screen timeout setting.
+
+	Tap Always On Display.
+
+	Tap the switch to OFF to disable Always On Display.
+
+	Tap the Back key twice to return to Settings.
+
+	Using a live wallpaper can drain the battery faster.
+
+	Scroll to and tap Wallpaper.
+
+	Ensure that the Wallpaper motion effect switch is OFF, then tap the preferred wallpaper image and tap SET AS WALLPAPER.
+
+	Note: To change the wallpaper for the Lock screen, tap Home screen, then tap Lock screen.
+
+	Swipe down the Status bar.
+
+	Wi-Fi is a faster, lower power connection that can extend battery life by as much as 50%. Be sure that the device is connected to Wi-Fi whenever possible
+
+	However, leaving Bluetooth or GPS on when not actively in use can drain the battery faster.
+
+	Tap to turn off Bluetooth and Location.
+
+	When finished, press the Home key.
+
+	Note: You may need to swipe the quick settings bar to make some options available. The Quick Setting icons are Grey when turned off.
+
+	Some applications can run in the background and use extra battery life.
+
+	Tap the Recent Apps key.
+
+	Swipe an application to the side to close it, or tap the Close icon.
+
+	To close all applications, tap CLOSE ALL.
+
+	Note: Most applications do not use battery power when running in the background, and constantly closing all applications can make the device use more battery power.
+
+	Setting the device to sync less information can improve battery life.
+
+	From the home screen, swipe down the Status bar.
+
+	Tap the Settings icon.
+
+	Scroll to and tap Accounts.
+
+	Tap an account type.
+
+	Note: If prompted, tap to select the account name.
+
+	Tap to disable any unnecessary sync options.
+
+	When finished, tap the Back key twice to return to Settings.
+
+	Note: Repeat as needed for all accounts on the device.
+
+	Turning off vibration can improve battery life.
+
+	From the Settings screen, scroll to and tap Sounds and vibration.
+
+	Scroll to and tap the Vibrate while ringing, Vibration feedback and Keyboard vibration switches OFF.
+
+	When finished, tap the Back key to return to Settings.
+
+	Scroll to and tap Battery.
+
+	Your device has two power saving modes:
+
+	
+		Power saving mode: Limits performance and disables background synchronization (emails, messages, and some notifications may not work)
+	
+		Ultra power saving mode: Drastically changes the interface and functionality, disables most applications and connectivity (only recommended for advanced users).
+
+
+	To enable one of the power saving modes, tap the mode, then tap the switch to ON.
+
+	When finished, or to skip this step, press the Home key.
+
+	Charging the device on a regular basis will maximize the battery life.
+
+	The charger/connectivity port is located on the bottom of the device.
+
+	Plug the charger into the power socket and then connect it to the device.
+
+	The device is now configured to conserve battery life.",device,,
+740,no_device,"['service', 'software']","['service', 'message']",['text'],"block text services, restrict text services, allow text services","text services, My sprint","Block, restrict, or allow text services via My Sprint","Block, restrict, or allow text services via My Sprint","You can control the level of text messaging access for individual phones on your account. Use these controls to block all incoming or outgoing messages, or allow only messages to or from numbers you approve.These changes will take effect within 15 minutes.
+To block or unblock text messages, you must have a valid My Sprint account and be set up with an account owner profile. If you are not an account owner and do not have permission to change settings on your account, you will see a message showing your current settings. Read more about the different levels of profile access on sprint.com.
+Note: You cannot block or restrict text messaging services for Nextel phones online.
+Block or restrict text messaging services:
+Sign in to sprint.com with valid username and password Click the My Preferences tab. Under Limits and Permissions , click Block texts . Click on the phone or device to restrict text messages. Choose from the following options to block or restrict texts: Do not block any text messages Block all text messages inbound and outbound Block all inbound text messages Block all outbound text messages Block only these numbers for inbound and outbound text messages Allow only these numbers for inbound and outbound text messages To block or allow specific numbers, enter the phone number, 4- to 8-digit short code, email address, or domain address (e.g. spammer.com) you wish to block in the field and click Add number . The number will be added to the block list. To remove, select the number and click Remove . Once you make your selection, the symbol will change to a green checkmark that says Updated Click Save . If updates were saved successfully you will see the following confirmation message: Thank you! We've saved your changes. Turn your phone off and back on for the new settings to take effect
+Allow text messaging services:
+Sign in to sprint.com with valid username and password Click the My Preferences tab Under Limits and Permissions , select Block texts Click to select the phone you wish to manage settings for - a Restricted symbol indicates that phone is currently restricted You will see 6 options (same as above) for settings for the phone. To unblock or allow all services, click Do not block any text messages . To allow text messages from specific numbers, select Allow only the following numbers for inbound or outbound messages . Once you make your selection, the symbol will change to a green Updated checkmark Click Save . If updates were saved successfully you will see the following confirmation message: Thank you! We've saved your changes. Turn your phone off and back on for the new settings to take effect. Note : If you have more than 100 devices on your account, only the first 100 show in My Sprint. To change the rest, contact us by dialing *2 on your Sprint phone.",general,,
+1597,no_device,['service'],['accessory'],[],purchase accessories,"monthly installment, monthly installments for accessories, purchase location ",FAQs about monthly installments for accessories,Where can customers purchase accessories with monthly installments?,Customers can purchase an accessory in participating company-owned stores. Please visit sprint.com/storelocator to locate a store near you.,general,,
+1450,appl_iphon_4_8gb,[],[],[],share video,[],Share a video - Apple iPhone 4,Share a video - Apple iPhone 4,"From the home screen, tap Photos.
+
+	Tap the preferred album.
+
+	Tap the preferred video.
+
+	Tap the Share icon.
+
+	Tap Next.
+
+	Tap the preferred service.
+
+	Enter any additional information, then tap Send or Publish.
+
+	Note:Steps may vary between different services.
+
+	If the service is not already set up on the handset, enter the login information and tap Sign In.
+
+	The video is now shared.",device,,
+379,appl_iphon_4_8gb,['software'],[],[],check software update,"software update, pre owned as you go ",Check for software updates - Apple iPhone 4 8GB Certified Pre Owned As You Go,Check for software updates - Apple iPhone 4 8GB Certified Pre Owned As You Go,"From the home screen, tap Settings.
+
+	Tap General.
+
+	Tap Software Update.
+
+	If an update is available, follow the on screen prompts to complete.
+
+	Otherwise, the software is up to date.",device,,
+1163,no_device,[],[],[],take selfie,[],Take a selfie with your Apple iPhone 7 Plus,Take a selfie with your Apple iPhone 7 Plus,"Steps to take a selfie with your Apple iPhone 7 Plus
+From the home screen, tap Camera . Tap the Switch Camera icon to activate the forward facing camera. To set a color filter, tap the Filter icon and select a filter. To adjust the brightness, tap the screen, then drag the Brightness slider up or down. To change the photo shape from portrait/landscape to square, tap SQUARE . Tap to set the preferred Flash and HDR settings. When ready, tap the Capture button to take the selfie.
+Note: To enable or disable Live Photos, tap the  icon.",general,,
+354,no_device,[],[],[],[],"familaywall for spring, menmbers of plan",FAQs about FamilyWall for Sprint,How many members can be on my Wall?,"There is no limit to the number of members that can be included on a Wall, just as there is no limit to the number of Walls you can create.
+",general,,
+192,no_device,"['device', 'service', 'bill']","['pay', 'payment', 'service']",[],cancel service,"sprint one up, 24 device payments, device payments, installment agreement",Learn more about Sprint One Up,What happens if a customer on an Installment Agreement cancels service prior to completing their 24 device payments?,"If a customer on an Installment Agreement cancels service prior to completing their 24 device payments, the full remaining unpaid balance on the device will be due on customer's next invoice.",general,,
+1225,appl_iphon_4_8gb,['software'],['setting'],['setting'],"change backup setting, change sync setting, change setting","Pre owned as you go, back up settings, sync setting",Change the backup and sync settings - Apple iPhone 4 8GB Certified Pre Owned As You Go,Change the backup and sync settings - Apple iPhone 4 8GB Certified Pre Owned As You Go,"From the home screen, tap Settings.
+
+	Scroll to and tap Mail, Contacts, Calendars.
+
+	Tap Fetch New Data.
+
+	Tap the Pushtoggle to enable or disable the feature.
+
+	Scroll to and tap the preferred option to set theFetch schedule for accounts that do not support data push.
+
+	Tap Mail.
+
+	The account synchronization settings have been changed.",device,,
+1179,no_device,['service'],['eligible'],[],"verify elegibility,","Sprint Discount Program, receiveing discounts",FAQ related to the Sprint Discount Program,Why did I get a request to verify my eligibility to continue receiving the discounts I already receive as part of the Sprint Discount Program?,"Because discounts are based on a contractual relationship between Sprint and the company, individuals requesting a discount must periodically validate their affiliation with the company tied to the discount. We ask all customers that currently receive monthly service discounts to re-validate their eligibility when:
+Phone is upgraded and no revalidation has occurred recently. Request is submitted to change from one discount to another.",general,,
+489,no_device,"['service', 'bill', 'hardware']","['cost', 'service', 'phone', 'camera']",['phone'],['use'],,FAQs about FamilyWall for Sprint,"What is FamilyWall for Sprint?
+		Why is Sprint launching this service?
+		What is the cost to customers?
+		What is offered with a Premium Subscription?
+		How can I get the service on my phone?
+		How many Walls can I have?
+		How do I invite new members?
+		How many members can be on my Wall?
+		Can customers on other carriers join my Wall?
+		Who can use FamilyWall for Sprint?
+		Who can see the information I publish?
+		Why would I create multiple Walls?",,general,Is this multiple FAQs,
+1349,appl_iphon_4_8gb,['software'],[],[],check software version ,software version,Check the software version - Apple iPhone 4,Check the software version - Apple iPhone 4,"From the home screen, tap Settings.
+
+	Tap General.
+
+	Tap About.
+
+	Scroll down to software version.
+
+	The software version is now displayed.",device,,
+467,no_device,['software'],['default_apps'],['music'],use content,"sprint music plus, content , app",Learn more about Sprint Music Plus,"If I uninstall the Sprint Music Plus app, can I still use my content?","Yes, DRM-free content should allow playback on the native device player.
+",general,precondition : if uninstall the sprint music plus app,
+262,no_device,[],[],[],take selfie,selfie,Take a selfie with your Apple iPhone SE,Take a selfie with your Apple iPhone SE,"Steps to take a selfie with your Apple iPhone SE
+From the home screen, tap Camera . Tap the Switch Camera icon to activate the forward facing camera. To set a color filter, tap the Filter icon and select a filter. To adjust the brightness, tap the screen, then drag the Brightness slider up or down. To change the photo shape from portrait/landscape to square, tap SQUARE . Tap to set the preferred Flash and HDR settings. When ready, tap the Capture button to take the selfie.
+Note: To enable or disable Live Photos, tap the  icon.",general,,
+50,no_device,['service'],['service'],[],,"Familywall for sprint, reason, lauching service",FAQs about FamilyWall for Sprint,Why is Sprint launching this service?,"Sprint is the only U.S. carrier to offer a private social media space to help consumers connect to the people and things that matter most to them. We understand that it is important for our consumers to connect to family and friends in many different ways. FamilyWall for Sprint offers Sprint IL (Individual Liable) consumers a private space to communicate, organize, share, remember and even locate those who matter most.
+",general,?,
+200,no_device,"['service', 'software']","['number', 'setting', 'email', 'calls']","['setting', 'voicemail']","set rings, set number of rings","rings, voicemail, number of rings",Set the number of rings for voicemail,Set the number of rings for voicemail,"A call will roll to your voicemail if unanswered after 23 seconds.
+This setting can't be changed. However, on your Sprint phone, you can change your ring tone to one that reduces or increases the number of rings you hear before an incoming call rolls to voicemail.
+For details about setting up and changing your ring tones, refer to the user guide for your phone.",general,,
+2078,samsung_galaxi_s7,"['hardware', 'software']",['default_apps'],['key feature'],[],"special edition, basic hardware features,  key feature",FAQs related to key features on your Samsung Galaxy S7 Special Edition,What are the basic hardware features of my Samsung Galaxy S7 Special Edition?,"Memory: 4GB of RAM and 32GB of storage, with support for expanded storage up to 200GB Screen: 5.1 inch Super AMOLED, at a resolution of 1440x2560 Camera: 12 megapixel rear camera, 5 megapixel front camera Processor: 2.2 GHz Quad core Qalcomm MSM8996 Battery: 3000mAh battery Bluetooth: v4.2 NFC",device,,
+1784,no_device,"['service', 'hardware', 'software']","['phone', 'available', 'sound', 'default_apps', 'camera']","['rington', 'music', 'phone']",[],"Sprint music plus, full track and rington bundles, credit bundles",FAQs about Sprint Music Plus full track and ringtone bundles,Are Credit Bundles available for purchase on my phone?,"Android phones: You may purchase the Full Track Credit Bundle, Ringtone Credit Bundle and Ringback Tone Credit Bundle via the Sprint Music Plus App (available for download from the Google Play Store). iPhones: We are sorry, Credit Bundles are not available to purchase on iPhones. Win8 phones: You may purchase the Full Track Credit Bundle, Ringtone Credit Bundle and Ringback Tone Credit Bundle via the Sprint Music Plus App (available to download from the App Store). Feature/WAP phones: You may purchase the Full Track Credit Bundle, Ringtone Credit Bundle and Ringback Tone Credit Bundle via the Sprint Music Plus WAP Store .",general,,
+506,appl_iphon_4_8gb,['software'],"['internet&network', 'default_apps']","['hotspot', 'wifi', 'key feature']","turn on wifi, turn on hotspot","key features, wifi, hotspot",FAQs related to key features on your Apple iPhone 4,How do I make my Apple iPhone 4 a Wi-Fi hotspot?,"Set up your Apple iPhone 4 as a Wi-Fi hotspot.
+Review these Wi-Fi hotspot FAQs",device,,
+798,no_device,"['bill', 'software']","['cost', 'internet&network']",['roaming'],[],"global roaming, cost of global roaming",FAQs about Sprint Global Roaming,How much does Sprint Global Roaming cost?,Sprint Global Roaming is available at no extra cost  you only pay for the services you access beyond what is included at no additional charge.,general,,
+601,no_device,[],[],[],program device,[],Program your Apple iPhone 4,Program your Apple iPhone 4,"Steps to activate your Apple iPhone 4
+Hands free activation
+If this is the first time activating your device, hands free activation automatically starts when you power it on for the first time.
+With your phone powered off, press and hold the Power key. Swipe to the right to unlock the screen and start the setup process. Tap the preferred language. Tap the preferred country or region. Tap the preferred activation method: To activate using a Wi-Fi connection, tap the preferred Wi-Fi network, enter the network Password , and then tap Join . To activate using a cellular connection, tap Use Cellular Connection . Your Apple iPhone 4 activates. Tap the preferred Location Services option. Tap the preferred setup option. Tap Sign In with Your Apple ID . If you do not have an Apple ID, tap Create a Free Apple ID and follow the prompts, or visit http://appleid.apple.com Enter your Apple ID credentials and tap Next . Read the Terms and Conditions and tap Agree . Read the Terms and Conditions message and tap Agree . Tap the preferred iCloud option. If necessary, tap the preferred Find My Phone option. Tap to check or uncheck the preferred contact options and tap Next . Enter a four-digit passcode. Re-enter the four-digit passcode to confirm. Tap the preferred Siri option and tap Next . Tap the preferred Diagnostics option and tap Next . Tap Get Started  . Your Apple iPhone 4 is ready to be used.
+Note: If hands free activation fails, continue to the next guide.
+Update the data profile
+If this is not the first time activating your device, or hands free activation did not complete successfully, update the data profile.
+From the home screen, tap Phone . On the keypad, dial ##873283# and tap Ca ll . Tap OK . Your device searches for profile updates and installs them. Tap Dismiss . Tap the Home key. You've now updated the data profile.
+If you are having trouble activating your Apple iPhone 4, make an appointment at a nearby Sprint Store for assistance getting your device programmed.",general,,
+1392,no_device,"['device', 'service', 'software', 'hardware']","['phone', 'eligible', 'setting', 'camera']","['notification', 'phone']",,"unlocking policy, prepaid phone, eligible to be unlocked, unlock device",Sprint Prepaid phone unlocking policy and FAQs,Will Sprint Prepaid notify me when my device is eligible to be unlocked/has been unlocked?,"No. Sprint Prepaid elects to post its unlocking policies and procedures online. However, if you believe you meet the above requirements and would like to request that your DSU-capable device be unlocked and/or request the associated MSL Code, contact Sprint Prepaid Customer Care at 855-639-4644.",general,,
+1441,samsung_galaxi_s7,[],[],[],use app,sprint zone app,Use the Sprint Zone app - Samsung Galaxy S7,Use the Sprint Zone app - Samsung Galaxy S7,"From the home screen, tap Apps.
+
+	Swipe to and tap Sprint Zone.
+
+	Note: If a Give Permission prompt appears, tap Continue, then review each permission when prompted and tap the preferred option.
+
+	Read the Privacy Statement and tap Continue.
+
+	The Sprint Zone home screen offers an at-a-glance view of account usage including:
+
+	
+		Current usage for voice, data, and messaging
+	
+		Bill cycle and current account balance
+
+
+	Scroll down to view additional options.
+
+	Note: To view additional usage detail, tap Usage details.
+
+	In addition to current usage information, Sprint Zone also offers access to the following:
+
+	
+		Billing: Manage your bill and payments.
+	
+		Account: Manage your Sprint account, including your plan, limits, and upgrade eligibility.
+	
+		Support: Access a variety of resources to learn more about the device, including How To's, FAQ's, and basic troubleshooting assistance.
+	
+		Appointments: Locate the nearest Sprint store or partner store, and schedule an appointment.
+
+
+	To access the Settings menu, tap the Menu icon or swipe right from the left edge of the screen.
+
+	Additional options are available in the Settings menu:
+
+	
+		Sprint News: View the latest news from Sprint.
+	
+		Settings: Change notification settings and refresh Sprint Zone content.
+	
+		Notifications: View important messages from Sprint.
+
+
+	To return to the Sprint Zone home screen, tap the Back key or swipe left.
+
+	To access the Sprint Zone diagnostic tools, tap Support.
+
+	Tap Diagnostics.
+
+	The Device Diagnostics menu includes tools that help you:
+
+	
+		Check for software, data profile, and PRL updates
+	
+		Check and manage power usage
+	
+		View storage usage
+
+
+	To return to the Sprint Zone home screen, tap the Back key twice.
+
+	Otherwise, press the Home key to exit Sprint Zone.
+
+	The Sprint Zone app is now closed.",device,,
+1461,no_device,[],[],[],"protect information, improve smartphone security IQ","information, smartphone security IQ",Improve my smartphone security IQ,How else can I protect my information?,"Passcodes  Sprint customers should always use passcodes to lock their phones and make it harder for the phone to be accessible if lost or stolen. To find out how to set a passcode on your device, find your device User Guide at www.sprint.com/support . This will give you instructions if your device is capable of setting a passcode. Protection Applications- Total Equipment Protection (TEP) allows customers to download a protection application to locate a lost/stolen device as well as remotely lock the device, erase contacts, etc. For more information visit www.sprint.com/protection . Additional monthly charges apply for TEP. Lookout Mobile Security For more information, visit: https://www.mylookout.com Lookout Mobile Security: Plan B Get more information . Additional products are available in the Android, Blackberry and Apple marketplace. Protect voice mail  Use a passcode to retrieve voicemails rather than opting to skip it in order to maintain the highest level of security. Without it, anyone with access to the device can connect to voicemail.
+Frequently asked Questions
+Can I locate my device with Family Locator?
+Yes, if you have Sprint Family Locator activated on your account. To find a lost or stolen phone, the phone must be turned on and in Sprint network coverage. The location will be approximate and will not be accurate enough to find a lost phone in a specific room in a house.
+Can I buy a phone off ebay or craigslist and activate it on my account?
+You should get the serial number of the device and then check with Sprint to make sure no bill is owed on that device and it hasn't been reported as lost/stolen. Devices that have been reported lost/stolen to Sprint cannot be re-activated on our network.",general,,
+333,no_device,[],[],[],[],"Buy online, pick up in store, ","FAQs about Buy Online, Pick Up in Store",How does it work?,"Buy online, pick up in store is incredibly easy. To do so, simply select the device or devices you want and proceed to checkout. When you get to the Your Cart screen, scroll down to the Delivery options section and select, Pick it up in as little as an hour. (If this option is not available, then the device is currently not available for in-store pick up.)
+Once you do that, the Pick up in store tool will appear.
+The Pick up in store tool should guide you through the process quickly and easily, allowing you to look up your store, choose a date and time that is most convenient for you and get your confirmation. If you get hung up during the process, come back here and look through our guide.",general,,
+38,no_device,['bill'],['cost'],[],[],"Familywall for sprint, cost of familywall ",FAQs about FamilyWall for Sprint,What is the cost to customers?,"Available at no charge to new and existing Sprint IL customers on Android and iPhone, and soon the Web. While there is no cost for FamilyWall for Sprint, users who require additional storage or have an interest in enhanced features, such as the ability to view photos and videos in HD, may subscribe to FamilyWall for Sprint Premium for $2.99 per month for one Wall.",general,,
+897,no_device,"['troubleshoot', 'service', 'hardware', 'software']","['phone', 'camera', 'internet&network']","['phone', 'bluetooth']",,"bluetooth support, bluetooth protocol, phone bluetooth",Troubleshoot issues related to Bluetooth and your Google Pixel XL,Does your phone you're pairing with support the same Bluetooth protocols as your Google Pixel XL?,"Refer to the Bluetooth device's user manual for compatibility.
+Your Google Pixel XL is compatible with Bluetooth v4.2 and supports:
+Advanced Audio Distribution Profile (A2DP) Audio/Video Remote Control Profile (AVRCP) Generic Audio/Video Distribution Profile (GAVDP) Hands-Free Profile (HFP) Headset Profile (HSP) Health Device Profile (HDP) Human Interface Device Profile (HID) Message Access Profile (MAP) Object Push Profile (OPP) Personal Area Networking Profile (PAN) Phone Book Access Profile (PBAP) Serial Port Profile (SPP)
+If the manual doesn't list any of these protocols, your Google Pixel XL is unable to connect to that Bluetooth device.",general,,
+917,no_device,[],[],[],"program phone, program device",,Program your Apple iPhone 6,Program your Apple iPhone 6,"Steps to activate your Apple iPhone 6
+Hands free activation
+If this is the first time activating your device, hands free activation automatically starts when you power it on for the first time.
+With your device powered off, press and hold the Power key. Swipe to begin the setup. Tap the preferred language. Tap the correct country or region. Tap the preferred activation method: To activate using a Wi-Fi connection, tap the preferred Wi-Fi network, enter the network Password , and then tap Join . To activate using iTunes, tap Connect to iTunes . To activate using a cellular connection, tap Use Cellular Connection . The option to Use Cellular Connection appears after several minutes. Your device will activate. Tap the preferred Location Services . Follow the prompts to set up Touch ID . Follow the prompts to create a Passcode . Tap the preferred Apps & Data option . Enter your Apple ID credentials and tap Next . If you do not have an Apple ID, tap Create a Free Apple ID and follow the prompts, or visit http://appleid.apple.com Read the Terms and Conditions and tap Agree . Read the Terms and Conditions message and tap Agree . Tap Next . Follow the steps to set up Apple Pay . Tap an iCloud Keychain option. Tap an option for Siri . Tap a Diagnostics option. Tap an App Analytics option. Tap Choose a View . Tap a display option, then tap Next . Tap Get Started . Your Apple iPhone is ready to be used.
+Note: If hands free activation fails, continue to the next guide.
+Update the data profile
+If this is not the first time activating your device, or hands free activation did not complete successfully, update the data profile.
+From the home screen, tap Phone . On the keypad, dial ##873283# and tap Call . Tap OK .
+If you are having trouble activating your Apple iPhone 6, make an appointment at a nearby Sprint Store for assistance getting your device programmed.",general,,
+104,samsung_galaxi_s7,[],[],[],,"apps, private mode",FAQs related to Private mode on your Samsung Galaxy S7,Which apps work with Private mode?,"The following Samsung apps allow you to use Private mode to protect content:
+Gallery Video Music Voice Recorder My Files Internet apps
+Note: My Files allows access to following file types.
+Documents Images Audio Video",device,,
+299,no_device,['software'],['default_apps'],['music'],manage playlist,"Sprint Music Plus, playlist",Learn more about Sprint Music Plus,How do I create and manage playlists?,"From the player, select the menu icon and then select ""Add to Playlist."" Select ""Add to new playlist"" and give the playlist a name. Click the (+) icon to add the playlist to your library. To add more songs to your playlist, view them in the player and select ""Add to Playlist"" again from the menu icon and select the playlist that you've created. To edit your playlist, from the main menu, select ""Music"" under ""Library"" and swipe to the right to the ""Playlists"" tab. Here you can select any playlist you've created and remove songs, shuffle or play all.
+",general,,
+156,no_device,['software'],['default_apps'],['music'],preview music tracks,"Sprint Music Plus, music tracks",Learn more about Sprint Music Plus,How do I preview music tracks?,"From the main menu on your phone, select Sprint Music Plus. Select Music Store. Search and select track to preview. You can search by artist, title or keyword, or music category. Select Preview.",general,,
+1327,appl_iphon_4_8gb,['software'],['internet&network'],['bluetooth'],pair with bluetooth,Pre Owned As You Go,Pair with Bluetooth - Apple iPhone 4 8GB Certified Pre Owned As You Go,Pair with Bluetooth - Apple iPhone 4 8GB Certified Pre Owned As You Go,"From the home screen, tap Settings.
+
+	Tap Bluetooth.
+
+	Tap the Bluetooth toggle to enable the feature if it is not already active. The handset automatically searches for available Bluetooth devices.
+
+	If initiating the pairing from the handset, ensure the Bluetooth device is on and set to discoverable or pairing mode.
+
+	Tap the preferred Bluetooth device.
+
+	The Bluetooth device is now paired.
+
+	Note: If a Bluetooth pairing request appears, verify the passkey is the same on both devices or enter the PIN and tap Pair.
+	
+	The default passkey for most Bluetooth headsets is 0000 or 1234. Other devices may have other requirements. Refer to the Bluetooth device's user manual for device specific requirements.",device,,
+1374,no_device,['software'],['message'],['text'],send text ,"text message, text to a landline",Send a text message to a landline,How do I send a text to a landline?,"Sending a text message to a landline is just like sending a standard text message. Just create a text message from your Sprint phone and address it to a 10-digit phone number. Your text is converted to a voice message, which is automatically read to the recipient when he or she answers the phone. If the recipient does not answer the phone, your text message is stored as a voicemail, provided the recipient has voicemail service on their landline phone. Your recipient can also reply to your message.",general,,
